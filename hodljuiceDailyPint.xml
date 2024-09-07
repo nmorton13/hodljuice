@@ -2,12 +2,11 @@
   <channel>
     <title>The Hodljuice Daily Pint</title>
     <link>https://hodljuice.app</link>
-    <atom:link href="https://hodljuice.app/hodljuice_daily_pint.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hodljuice.app/hodljuice_daily_pint.xml" rel="self" type="text/plain" />
     <language>en-us</language>
     <itunes:author>Various</itunes:author>
     <description>Daily collection of various Bitcoin-related podcasts</description>
-    <itunes:category text="Technology">
-      <itunes:category text="Cryptocurrency"/>
+    <itunes:category text="Bitcoin">
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
