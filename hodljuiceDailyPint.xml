@@ -10,8 +10,13 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
       <itunes:name>Hodljuice</itunes:name>
-      <itunes:email>contact@hodljuice.app</itunes:email>
+      <itunes:email>hodljuice@hodljuice.app</itunes:email>
     </itunes:owner>
+    <image>
+      <url>https://hodljuice.app/static/icon-512x512.png</url>
+      <title>The Hodljuice Daily Pint</title>
+      <link>https://hodljuice.app</link>
+    </image>
     <lastBuildDate>Fri, 06 Sep 2024 15:38:32 CDT</lastBuildDate>
     <item>
         <title>Bitcoin_Audible: Chat_111 - Brollups, Ark 2.0, and 1000 tps with Burak</title>
