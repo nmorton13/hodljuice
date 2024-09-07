@@ -1,0 +1,138 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Hodljuice Daily Pint</title>
+    <link>https://hodljuice.app</link>
+    <atom:link href="https://hodljuice.app/hodljuice_daily_pint.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <itunes:author>Various</itunes:author>
+    <description>Daily collection of various Bitcoin-related podcasts</description>
+    <itunes:category text="Technology">
+      <itunes:category text="Cryptocurrency"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Hodljuice</itunes:name>
+      <itunes:email>contact@hodljuice.app</itunes:email>
+    </itunes:owner>
+    <lastBuildDate>Fri, 06 Sep 2024 15:38:32 CDT</lastBuildDate>
+    <item>
+        <title>Bitcoin_Audible: Chat_111 - Brollups, Ark 2.0, and 1000 tps with Burak</title>
+        <itunes:author>Bitcoin_Audible</itunes:author>
+        <itunes:keywords>Bitcoin innovation, smart contracts, privacy in transactions</itunes:keywords>
+        <description>Guy Swann and Burak discuss the future of Bitcoin, exploring Ark—a new P2P transaction model—as a potential improvement over existing systems like Lightning. They highlight the significance of privacy for users and how Ark may dominate privacy-focused markets.</description>
+        <enclosure url="https://episodes.castos.com/6626b866f2af87-36468692/1830200/c1e-708oqc47m8rfn1w5r-dm69z7q4a105-njfjnf.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-06-ea3b2f9fb07ceb1fd3609167035cb905</guid>
+        <pubDate>Fri, 06 Sep 2024 15:38:32 CDT</pubDate>
+    </item>
+    <item>
+        <title>Bitcoin_Veterans: Bitcoin Veterans SITREP: Financial Freedom with Bitcoin - Retirement and Home Buying Strategies</title>
+        <itunes:author>Bitcoin_Veterans</itunes:author>
+        <itunes:keywords>Financial education, Bitcoin as savings technology, inflation impact</itunes:keywords>
+        <description>The panel discusses retirement and home buying challenges in an inflationary environment, highlighting Bitcoin as a superior savings technology. They stress the importance of educating individuals on the financial landscape to promote informed decision-making.</description>
+        <enclosure url="https://anchor.fm/s/e3cb8764/podcast/play/91343952/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-5%2F385884552-44100-2-0c16bb7dd405c.m4a" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-06-d945d07e32134305bb08066105720135</guid>
+        <pubDate>Fri, 06 Sep 2024 15:38:32 CDT</pubDate>
+    </item>
+    <item>
+        <title>Bitcoin_Veterans: 058. Turkey, Venezuela, Gangs, Trump &amp; Bitcoin</title>
+        <itunes:author>Bitcoin_Veterans</itunes:author>
+        <itunes:keywords>Geopolitics, Bitcoin adoption, global affairs</itunes:keywords>
+        <description>Mike and Shane discuss Turkey&#39;s geopolitical shift and Venezuela&#39;s Bitcoin adoption. They explore the interplay between Bitcoin, gang activities, and recent political events, shedding light on the global implications of these developments.</description>
+        <enclosure url="https://anchor.fm/s/e3cb8764/podcast/play/91329224/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-5%2F385867621-44100-2-43c3531b61899.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-06-e85effbf89b59c9e3e86a6d7fe2ae262</guid>
+        <pubDate>Fri, 06 Sep 2024 15:38:32 CDT</pubDate>
+    </item>
+    <item>
+        <title>Bitcoin_for_Millennials: Nolan Bauerle: What happens after fiat money dies? | BFM079</title>
+        <itunes:author>Bitcoin_for_Millennials</itunes:author>
+        <itunes:keywords>Fiat currency flaws, Bitcoin adoption, economic revolution</itunes:keywords>
+        <description>Nolan Bauerle discusses the impending transition from fiat currencies to Bitcoin, emphasizing its potential to enhance financial literacy and offer a shield against government influence. The episode explores various aspects of Bitcoin&#39;s transformative role in society.</description>
+        <enclosure url="https://anchor.fm/s/e82b7a08/podcast/play/91210849/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-2%2F385722632-44100-2-b180623248019.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-06-86547068d53c2f1863f5d9d850c117d7</guid>
+        <pubDate>Fri, 06 Sep 2024 15:38:32 CDT</pubDate>
+    </item>
+    <item>
+        <title>Fractal_Bitcoin: Bitcoin&#39;s Short-Term Dip, The Calm Before Permanent Global Domination!</title>
+        <itunes:author>Fractal_Bitcoin</itunes:author>
+        <itunes:keywords>Bitcoin market trends, institutional adoption, technological advancements</itunes:keywords>
+        <description>The hosts analyze Bitcoin&#39;s current price stability and significant developments, including increased institutional interest and technological advancements like BOLT 12 Offers. They anticipate stronger adoption and growth for Bitcoin in the coming months.</description>
+        <enclosure url="https://podcasts.captivate.fm/media/85895d29-3aea-434d-9a1e-acdc6bb199ca/182-Fractal-Bitcoin-2024-09-05-Bitcoin-s-Short-Term-Dip-The-Cal.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-06-6bbd58f15402eec02c92619a17ad45a8</guid>
+        <pubDate>Fri, 06 Sep 2024 15:38:32 CDT</pubDate>
+    </item>
+    <item>
+        <title>Pleb_UnderGround: Here&#39;s The One Thing Missing For Bitcoin To Take Off</title>
+        <itunes:author>Pleb_UnderGround</itunes:author>
+        <itunes:keywords>Banking system integration, Bitcoin transactions, banking regulations</itunes:keywords>
+        <description>The discussion focuses on the key conditions necessary for Bitcoin to thrive within the traditional banking system, with commentary on banks&#39; interest in Bitcoin over other cryptocurrencies. They emphasize the importance of fractional reserves for Bitcoin&#39;s success.</description>
+        <enclosure url="https://anchor.fm/s/add2abc4/podcast/play/91307401/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-5%2F385841070-44100-2-d81931f908e13.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-06-7c9a5d162fa18c3e07828b1538953f66</guid>
+        <pubDate>Fri, 06 Sep 2024 15:38:32 CDT</pubDate>
+    </item>
+    <item>
+        <title>Rabbit_Hole_Recap: FEAR, UNCERTAINTY, AND DOUBT | RABBIT HOLE RECAP #321</title>
+        <itunes:author>Rabbit_Hole_Recap</itunes:author>
+        <itunes:keywords>Regulatory challenges, technological updates, free speech issues</itunes:keywords>
+        <description>The hosts cover recent Bitcoin-related news, highlighting regulatory challenges in Brazil and advancements in Bitcoin technology, including mobile wallets and updates to existing services. They connect these developments with broader themes of free speech and governmental control.</description>
+        <enclosure url="https://anchor.fm/s/91b8fbc8/podcast/play/91346955/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-5%2F385888693-44100-2-1e7acb5dc57d6.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-06-ed54ea440c96c9cc297f46e1820b8ca3</guid>
+        <pubDate>Fri, 06 Sep 2024 15:38:32 CDT</pubDate>
+    </item>
+    <item>
+        <title>Robin_Seyer: 15-year-old: BTC will drastically improve Quality of Life!</title>
+        <itunes:author>Robin_Seyer</itunes:author>
+        <itunes:keywords>Financial literacy, youth perspective on Bitcoin, monetary reform</itunes:keywords>
+        <description>Robin Seyr talks to a 15-year-old Bitcoin enthusiast who shares his insights on how Bitcoin could improve quality of life through better financial literacy. They discuss the failures of traditional education in teaching money management and the potential of Bitcoin to counter systemic financial issues.</description>
+        <enclosure url="https://anchor.fm/s/ed1174c8/podcast/play/91364239/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-6%2F385910476-44100-2-96a37f1f413ac.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-06-d50de3c00039b3c75585419dc715f119</guid>
+        <pubDate>Fri, 06 Sep 2024 15:38:32 CDT</pubDate>
+    </item>
+    <item>
+        <title>Simply_Bitcoin: Business Bitcoin Adoption is Going PARABOLIC | EP 1069</title>
+        <itunes:author>Simply_Bitcoin</itunes:author>
+        <itunes:keywords>Business integration, economic impact, community role</itunes:keywords>
+        <description>This episode highlights the impressive 30% growth in business adoption of Bitcoin over the past year, discussing its implications for the economy and the importance of community support in fostering this trend. </description>
+        <enclosure url="https://anchor.fm/s/717a2198/podcast/play/91341998/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-5%2F5b668cf3-8328-4de7-c56c-886d6bb11188.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-06-fff08b0ad2a39abfe3480f4ea706f5d7</guid>
+        <pubDate>Fri, 06 Sep 2024 15:38:32 CDT</pubDate>
+    </item>
+    <item>
+        <title>The_Bitcoin_Layer: HOUSING MARKET CRISIS Is Developing with Melody Wright</title>
+        <itunes:author>The_Bitcoin_Layer</itunes:author>
+        <itunes:keywords>Housing market analysis, market predictions, economic implications</itunes:keywords>
+        <description>Melody Wright joins to discuss the crisis developing in the housing market, focusing on trends in Texas, Florida, and California, including predictions for price declines and the implications of Federal Reserve actions. </description>
+        <enclosure url="https://app.mysoundwise.com/tracks/17255885262288613e.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-06-01a09bcab125c3d1af930eeeb7b1d952</guid>
+        <pubDate>Fri, 06 Sep 2024 15:38:32 CDT</pubDate>
+    </item>
+    <item>
+        <title>The_Breakdown: Uniswap Settles with CFTC</title>
+        <itunes:author>The_Breakdown</itunes:author>
+        <itunes:keywords>Regulatory settlements, cryptocurrency enforcement, market impact</itunes:keywords>
+        <description>This episode addresses the implications of Uniswap&#39;s recent settlement with the CFTC, discussing how it sets a legal precedent for future enforcement actions in the cryptocurrency space. </description>
+        <enclosure url="https://traffic.megaphone.fm/BWG8780452810.mp3?updated=1725624026" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-06-5b5737336d7f03a51735586a8bed7aed</guid>
+        <pubDate>Fri, 06 Sep 2024 15:38:32 CDT</pubDate>
+    </item>
+    <item>
+        <title>The_Mark_Moss_Show: This Is Why Japan Is CRASHING The US Market!</title>
+        <itunes:author>The_Mark_Moss_Show</itunes:author>
+        <itunes:keywords>Economic analysis, US-Japan relations, market trends</itunes:keywords>
+        <description>Mark analyzes Japan&#39;s recent impact on the US market, exploring the reasons behind the downturn and its implications for the economy and individual investors. </description>
+        <enclosure url="https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/7abcd9bc-1b66-4c1e-a89b-ae3c000322cc/7d9c3be2-c4d1-4ea3-859d-b1e20153353f/audio.mp3?utm_source=Podcast&amp;in_playlist=9acb2eb4-8765-4a8a-8a57-ae3c000322da" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-06-c7dc3e59a48b890ee6d0fcecc1df08f3</guid>
+        <pubDate>Fri, 06 Sep 2024 15:38:32 CDT</pubDate>
+    </item>
+    <item>
+        <title>The_Mining_Pod: Galaxy’s $30m Offer to Rhodium, Bitmain’s ASIC Surplus, Bitcoin Mining (in Space!), and…Tokenized Nicotine?</title>
+        <itunes:author>The_Mining_Pod</itunes:author>
+        <itunes:keywords>Bitcoin mining, financial challenges, market developments</itunes:keywords>
+        <description>The hosts discuss Rhodium&#39;s bankruptcy and Galaxy Digital&#39;s $30 million loan offer, while analyzing the current state of the ASIC market and even speculating on the future of bitcoin mining in space. The episode concludes with a humorous take on tokenized products.</description>
+        <enclosure url="https://traffic.megaphone.fm/SSYDL7449192200.mp3?updated=1725596997" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-06-c9f943a50e91ab2a084b88c7de385166</guid>
+        <pubDate>Fri, 06 Sep 2024 15:38:32 CDT</pubDate>
+    </item>
+  </channel>
+</rss>
