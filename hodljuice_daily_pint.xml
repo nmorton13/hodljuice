@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Hodljuice Daily Pint</title>
+    <link>https://hodljuice.app</link>
+    <language>en-us</language>
+    <itunes:author>Various</itunes:author>
+    <description>Daily collection of various Bitcoin-related podcasts</description>
+    <itunes:category text="Technology">
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Hodljuice</itunes:name>
+      <itunes:email>hodljuice@hodljuice.app</itunes:email>
+    </itunes:owner>
+    <image>
+      <url>https://hodljuice.app/static/icon-512x512.png</url>
+      <title>The Hodljuice Daily Pint</title>
+      <link>https://hodljuice.app</link>
+    </image>
+    <lastBuildDate>Wed, 11 Sep 2024 09:37:47 CDT</lastBuildDate>
+    <item>
+        <title>Bitcoin_Audible  : Guy&#39;s Take_091 - The Path of Greatest Pain  </title>
+        <itunes:author>Bitcoin_Audible  </itunes:author>
+        <itunes:keywords>Personal growth, Bitcoin market volatility, perseverance  </itunes:keywords>
+        <description>This episode explores the parallels between life&#39;s struggles and Bitcoin&#39;s market fluctuations, highlighting the importance of enduring challenges for eventual success. It reflects on Robert Frost&#39;s quote about choices and their significance over time.  </description>
+        <enclosure url="[Listen Here](https://episodes.castos.com/6626b866f2af87-36468692/1832751/c1e-j7xz0iqk63rh0om5q-mk0d9mmntmn8-ym75pp.mp3)" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-11-1930789ce0c4030d94d7b5be4184647b</guid>
+        <pubDate>Wed, 11 Sep 2024 09:37:47 CDT</pubDate>
+    </item>
+    <item>
+        <title>Bitcoin_Optech  : Bitcoin Optech: Newsletter #319 Recap  </title>
+        <itunes:author>Bitcoin_Optech  </itunes:author>
+        <itunes:keywords>Bitcoin technical updates, market analysis, development  </itunes:keywords>
+        <description>The hosts recap key developments from Newsletter #319, discussing topics such as the Stratum v2 extension, recent releases in Bitcoin software, and notable changes in Bitcoin Core. The episode provides insights into ongoing improvements and vulnerabilities in the protocol.  </description>
+        <enclosure url="[Listen Here](https://anchor.fm/s/d9918154/podcast/play/91540740/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-10%2Faec2018a-ca0a-134a-670b-f3ff31939469.mp3)" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-11-2a4d90584a13e04a5e9e8ceafa7425c8</guid>
+        <pubDate>Wed, 11 Sep 2024 09:37:47 CDT</pubDate>
+    </item>
+    <item>
+        <title>Bitcoin_Veterans  : 059. Aleksandar Svetski  </title>
+        <itunes:author>Bitcoin_Veterans  </itunes:author>
+        <itunes:keywords>Bitcoin innovation, cryptocurrency entrepreneurship, community building  </itunes:keywords>
+        <description>In this episode, Aleksandar Svetski discusses his work in launching various Bitcoin-focused initiatives, including a Bitcoin-only savings app and open-sourcing educational materials. The conversation covers the evolution of the Bitcoin landscape and the importance of community engagement.  </description>
+        <enclosure url="[Listen Here](https://anchor.fm/s/e3cb8764/podcast/play/91568162/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-11%2F386162749-44100-2-cd9551b47c035.mp3)" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-11-b4f52ac639ecbfe2e694a64b4a804f26</guid>
+        <pubDate>Wed, 11 Sep 2024 09:37:47 CDT</pubDate>
+    </item>
+    <item>
+        <title>Bitcoin_Veterans  : Bitcoin Veterans SITREP: Bitcoin and Politics - How Economic Systems Shape Our Future  </title>
+        <itunes:author>Bitcoin_Veterans  </itunes:author>
+        <itunes:keywords>Immigration, economic systems, political engagement  </itunes:keywords>
+        <description>This episode explores the implications of immigration on local economies and the upcoming political debates, emphasizing community involvement and preparedness for governance. The hosts discuss how economic stability is influenced by government control and community actions.  </description>
+        <enclosure url="[Listen Here](https://anchor.fm/s/e3cb8764/podcast/play/91536548/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-10%2F386121692-44100-2-6867cf7b3b49a.m4a)" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-11-03d09c6b743d25ff9139abf7b5a42e26</guid>
+        <pubDate>Wed, 11 Sep 2024 09:37:47 CDT</pubDate>
+    </item>
+    <item>
+        <title>Bitcoin_and_Markets  : Can Bitcoin turn it around right here, right now in Uptember? Bitcoin Dawn, Weekly Roundup - E395  </title>
+        <itunes:author>Bitcoin_and_Markets  </itunes:author>
+        <itunes:keywords>Market analysis, macroeconomic trends, investment strategies  </itunes:keywords>
+        <description>This episode discusses Bitcoin&#39;s current state, analyzing recent macroeconomic trends and their implications on the cryptocurrency market. The hosts evaluate key indicators to predict Bitcoin&#39;s potential recovery this month.  </description>
+        <enclosure url="[Listen Here](https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/bitcoinandmarkets/e395.mp3?dest-id=1230017)" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-11-1eafd0ea46d86e9342dbd5fe08f36cf9</guid>
+        <pubDate>Wed, 11 Sep 2024 09:37:47 CDT</pubDate>
+    </item>
+    <item>
+        <title>Blockware  : Lessons Learned Holding Bitcoin Since 2014  </title>
+        <itunes:author>Blockware  </itunes:author>
+        <itunes:keywords>Long-term investment, market experience, Bitcoin community  </itunes:keywords>
+        <description>The episode features insights from holding Bitcoin since 2014, discussing market trends, the importance of free speech, and experiences within the Bitcoin community. Listeners gain a perspective on the long-term benefits and personal anecdotes from the speaker’s journey.  </description>
+        <enclosure url="[Listen Here](https://anchor.fm/s/6c5dfd9c/podcast/play/91544883/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-10%2F386134500-44100-2-805c0d54c9cb7.mp3)" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-11-7f717f9739730e1703a2a17264542dcb</guid>
+        <pubDate>Wed, 11 Sep 2024 09:37:47 CDT</pubDate>
+    </item>
+    <item>
+        <title>Flirting_With_Bitcoin  : ⚡🌆 FWB100 - Nostr City, Bitcoin Island  </title>
+        <itunes:author>Flirting_With_Bitcoin  </itunes:author>
+        <itunes:keywords>Decentralization, community building, Bitcoin transactions  </itunes:keywords>
+        <description>In this episode, the hosts delve into the concept of Nostr City and how it relates to Bitcoin Island, discussing decentralized communication and economic innovation. The significance of Bitcoin in fostering community and local economies is emphasized throughout the conversation.  </description>
+        <enclosure url="[Listen Here](https://api.substack.com/feed/podcast/148745827/7df54de33dae93aa581b5c7bd19161e6.mp3)" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-11-9bf8e5c4a3d78c80e7e9669113791953</guid>
+        <pubDate>Wed, 11 Sep 2024 09:37:47 CDT</pubDate>
+    </item>
+    <item>
+        <title>Onramp_Media  : The New Frontier E004: Bitcoin and Islam with Bitcoin Majlis  </title>
+        <itunes:author>Onramp_Media  </itunes:author>
+        <itunes:keywords>Islamic finance, ethical investing, community education  </itunes:keywords>
+        <description>Abdullah and Salah discuss Bitcoin&#39;s relevance within Islamic finance, examining its alignment with anti-riba principles and the mission of Bitcoin Majlis to educate the Muslim community. The episode highlights Bitcoin’s potential to offer a more ethical financial alternative.  </description>
+        <enclosure url="[Listen Here](https://anchor.fm/s/e01a5d48/podcast/play/91533271/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-10%2F386117902-44100-2-c33934e6b979b.mp3)" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-11-3e8bf94efe65d4ae915fc665cf0de335</guid>
+        <pubDate>Wed, 11 Sep 2024 09:37:47 CDT</pubDate>
+    </item>
+    <item>
+        <title>Pleb_UnderGround  : Post Mortem: Friend.tech Just Failed!  </title>
+        <itunes:author>Pleb_UnderGround  </itunes:author>
+        <itunes:keywords>Cryptocurrency failures, market analysis, emotional responses  </itunes:keywords>
+        <description>This episode analyzes the recent failure of friend.tech, examining the reasons behind its downfall and the financial implications for its creators. The hosts provide insights into the current emotional landscape in the cryptocurrency market.  </description>
+        <enclosure url="[Listen Here](https://anchor.fm/s/add2abc4/podcast/play/91500261/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-9%2F386077100-44100-2-10d8ac4477477.mp3)" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-11-151fc094f5ed22fe1000e6e6a9d5ca87</guid>
+        <pubDate>Wed, 11 Sep 2024 09:37:47 CDT</pubDate>
+    </item>
+    <item>
+        <title>Robin_Seyer  : Roman Reher: MAJOR BTC Supercycle has already STARTED!  </title>
+        <itunes:author>Robin_Seyer  </itunes:author>
+        <itunes:keywords>Bitcoin supercycle, institutional adoption, self-custody  </itunes:keywords>
+        <description>Robin Seyr and Roman Reher discuss Bitcoin&#39;s potential within a long-term supercycle, the implications of ETFs, and the importance of individual self-custody in a future Bitcoinized world. The episode highlights significant shifts in investment perceptions and the need for open-source solutions.  </description>
+        <enclosure url="[Listen Here](https://anchor.fm/s/ed1174c8/podcast/play/91561163/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-11%2F386154355-44100-2-9e5687ec50b24.mp3)" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-11-806dc561d10574bcf828319a38bbda43</guid>
+        <pubDate>Wed, 11 Sep 2024 09:37:47 CDT</pubDate>
+    </item>
+    <item>
+        <title>Simply_Bitcoin  : Jack Mallers Debates Peter Schiff on Bitcoin | EP 1072  </title>
+        <itunes:author>Simply_Bitcoin  </itunes:author>
+        <itunes:keywords>Bitcoin value proposition, financial debate, economic perspectives  </itunes:keywords>
+        <description>Jack Mallers engages in a debate with Peter Schiff, discussing Bitcoin&#39;s role as a hedge against inflation and addressing traditional finance criticisms. Their contrasting views provide insight into the ongoing discourse about Bitcoin’s future in the financial ecosystem.  </description>
+        <enclosure url="[Listen Here](https://anchor.fm/s/717a2198/podcast/play/91541927/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-10%2Fdd0f5485-8438-e101-6c68-cd65bdd6d191.mp3)" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-11-c47d6def4a62ff745d86e2ebb6d8e633</guid>
+        <pubDate>Wed, 11 Sep 2024 09:37:47 CDT</pubDate>
+    </item>
+    <item>
+        <title>Stephan Livera Podcast  : Bitcoin Product Market Fit For Savings with Pierre Rochard SLP602  </title>
+        <itunes:author>Stephan Livera Podcast  </itunes:author>
+        <itunes:keywords>Long-term saving strategies, Bitcoin standard, cultural impacts  </itunes:keywords>
+        <description>Stephan Livera and Pierre Rochard discuss Bitcoin&#39;s product-market fit for long-term savings, introducing a metric based on UTXO age. The conversation emphasizes aligning financial decisions with personal goals and the societal implications of adopting a Bitcoin standard.  </description>
+        <enclosure url="[Listen Here](https://anchor.fm/s/7d083a4/podcast/play/91567908/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-11%2F386162121-44100-2-e5dd489c49022.mp3)" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-11-067a7947e8a8a40fee23e68bca01fd1a</guid>
+        <pubDate>Wed, 11 Sep 2024 09:37:47 CDT</pubDate>
+    </item>
+    <item>
+        <title>TFTC_A_Bitcoin_Podcast  : #535: The State of Bitcoin-Backed Credit with Matt Dines  </title>
+        <itunes:author>TFTC_A_Bitcoin_Podcast  </itunes:author>
+        <itunes:keywords>Bitcoin-backed credit, market predictions, financial strategies  </itunes:keywords>
+        <description>Matt Dines discusses the Bitcoin-backed credit market, comparing it to various financial instruments and predicting future trends. The episode provides in-depth insights into the evolving landscape of credit in relation to Bitcoin and its financial implications.  </description>
+        <enclosure url="[Listen Here](https://anchor.fm/s/558f520/podcast/play/91555201/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-11%2F386146140-44100-2-b970f98e5ae23.mp3)" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-11-4118c5b66556992d42a0e0b336c9728d</guid>
+        <pubDate>Wed, 11 Sep 2024 09:37:47 CDT</pubDate>
+    </item>
+    <item>
+        <title>The_Bitcoin_Frontier  : Is 2025 the year bitcoin accelerates? with Joe Consorti  </title>
+        <itunes:author>The_Bitcoin_Frontier  </itunes:author>
+        <itunes:keywords>Economic outlook, Bitcoin growth trajectory, market analysis  </itunes:keywords>
+        <description>Joe Consorti discusses the implications of fiscal deficits on Bitcoin&#39;s future, exploring liquidity and rate cut impacts while examining growth models like power law and stock-to-flow. He presents insights on the potential evolution of Bitcoin amid economic changes up to 2025.  </description>
+        <enclosure url="[Listen Here](https://media.transistor.fm/cc461c39/64e4c6b3.mp3)" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-11-982718221d0df1e23c0547e8ebe60311</guid>
+        <pubDate>Wed, 11 Sep 2024 09:37:47 CDT</pubDate>
+    </item>
+    <item>
+        <title>The_Bitcoin_Layer  : Why Overturning Chevron Matters for Bitcoin and Civil Liberties  </title>
+        <itunes:author>The_Bitcoin_Layer  </itunes:author>
+        <itunes:keywords>Regulation, civil liberties, Bitcoin industry  </itunes:keywords>
+        <description>The episode features a discussion about the significance of overturning the Chevron Doctrine and its implications for the Bitcoin industry, focusing on regulatory power and civil liberties. Insights are provided on recent victories in restoring freedoms and the role of administrative agencies.  </description>
+        <enclosure url="[Listen Here](https://app.mysoundwise.com/tracks/17259904064781980e.mp3)" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-11-f609e08aa7054509e03ec8b5cdebd117</guid>
+        <pubDate>Wed, 11 Sep 2024 09:37:47 CDT</pubDate>
+    </item>
+    <item>
+        <title>The_Breakdown  : The Story in the Latest Bitcoin Price Action  </title>
+        <itunes:author>The_Breakdown  </itunes:author>
+        <itunes:keywords>Crypto market trends, investment strategy, market sentiment  </itunes:keywords>
+        <description>NLW analyzes recent Bitcoin price action and its implications for market sentiment, discussing trends and historical patterns that may guide investor decisions. The episode aims to provide listeners with clarity on the current state of the cryptocurrency market.  </description>
+        <enclosure url="[Listen Here](https://traffic.megaphone.fm/BWG9358527554.mp3?updated=1726054652)" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-11-bd990b95371f371aa4fd062e6a2d3993</guid>
+        <pubDate>Wed, 11 Sep 2024 09:37:47 CDT</pubDate>
+    </item>
+    <item>
+        <title>The_Canadian_Bitcoiners_Podcast  : The CBP #180 (Other Notable News Stories) - More Elections, American Debates, Bitcoin Price Action  </title>
+        <itunes:author>The_Canadian_Bitcoiners_Podcast  </itunes:author>
+        <itunes:keywords>Political analysis, Canadian perspective, Bitcoin developments  </itunes:keywords>
+        <description>This episode covers various news stories related to Bitcoin, including updates on elections and American political debates, alongside analysis of current Bitcoin price trends from a Canadian viewpoint. The hosts provide engaging discussions while reinforcing the importance of understanding Bitcoin&#39;s implications.  </description>
+        <enclosure url="[Listen Here](https://anchor.fm/s/538d43f4/podcast/play/91507229/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-10%2F7611c1ef-28e6-c0c8-c2ab-407777f7af82.mp3)" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-11-b05724b4c4a8759bdbb8b9c031bfbc9a</guid>
+        <pubDate>Wed, 11 Sep 2024 09:37:47 CDT</pubDate>
+    </item>
+    <item>
+        <title>The_What_is_Money_Show  : Web5: The Future of the Bitcoin-Based Internet with Polycarp Nakamoto (WiM512)  </title>
+        <itunes:author>The_What_is_Money_Show  </itunes:author>
+        <itunes:keywords>Decentralized applications, internet architecture, Bitcoin&#39;s role  </itunes:keywords>
+        <description>Polycarp Nakamoto discusses the evolution of the web and Bitcoin&#39;s foundational role in promoting decentralized applications. The episode emphasizes the need for user control over data and software in the future of the internet.  </description>
+        <enclosure url="[Listen Here](https://cdn.simplecast.com/audio/2effec98-bec5-4728-ba08-7a86d776e682/episodes/ff66a3ba-e124-413d-b3f3-1300d501afb1/audio/753963d6-01cb-45ee-9fbe-0caa8f7e7a56/default_tc.mp3?aid=rss_feed&amp;feed=MLdpYXYI)" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-11-576571983d62a7a700cbd17779c7b7bf</guid>
+        <pubDate>Wed, 11 Sep 2024 09:37:47 CDT</pubDate>
+    </item>
+    <item>
+        <title>Bitcoin_Veterans: Bitcoin Veterans SITREP: Navigating Bitcoin&#39;s Volatility - Lessons from MicroStrategy&#39;s Journey</title>
+        <itunes:author>Bitcoin_Veterans</itunes:author>
+        <itunes:keywords>[Bitcoin Volatility, Investment Strategies, Community Engagement]</itunes:keywords>
+        <description>The hosts discuss recent developments in Bitcoin, featuring an interview with Michael Saylor who shares insights on Bitcoin as a digital asset and its performance in comparison to traditional investments. They cover topics including political impacts on Bitcoin and community efforts in adoption.</description>
+        <enclosure url="https://anchor.fm/s/e3cb8764/podcast/play/91489464/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-9%2F386063459-44100-2-ab9e555e3b981.m4a" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-10-db80ccad3df2bd45a6c2ac37508d2748</guid>
+        <pubDate>Tue, 10 Sep 2024 16:36:05 CDT</pubDate>
+    </item>
+    <item>
+        <title>Bitcoin_for_Millennials: University Professor: “The Money System is Taking Advantage of You” | BFM080</title>
+        <itunes:author>Bitcoin_for_Millennials</itunes:author>
+        <itunes:keywords>[Bitcoin Education, Government Intervention, Financial System Trust]</itunes:keywords>
+        <description>Business Professor Sina discusses his insights on Bitcoin&#39;s resilience against government intervention and emphasizes the need for education regarding Bitcoin and finance. He addresses the challenges posed by the current financial system and positions Bitcoin as a solution to inflation.</description>
+        <enclosure url="https://anchor.fm/s/e82b7a08/podcast/play/91273947/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-4%2F385800540-44100-2-5270a353dd437.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-10-3b3c2cb8dc3b6c34f01575dcbaa6a1eb</guid>
+        <pubDate>Tue, 10 Sep 2024 16:36:05 CDT</pubDate>
+    </item>
+    <item>
+        <title>Coin Stories with Natalie Brunell: Bitcoin Mechanic: Is Bitcoin Too Centralized? Mining Pools &amp; Freedom Money vs State Surveilled SoV</title>
+        <itunes:author>Coin Stories with Natalie Brunell</itunes:author>
+        <itunes:keywords>[Bitcoin Centralization, Censorship, Mining Mechanics]</itunes:keywords>
+        <description>In this episode, the Bitcoin Mechanic discusses centralization concerns in Bitcoin, censorship risks, and the workings of mining pools. The implications of a surveillance state on Bitcoin are also explored, emphasizing its role as &#39;freedom money.&#39;</description>
+        <enclosure url="https://traffic.libsyn.com/secure/coinstories/286_Bitcoin_Mechanic.mp3?dest-id=2813255" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-10-55cb9f0013e02783ae0be5ed17675326</guid>
+        <pubDate>Tue, 10 Sep 2024 16:36:05 CDT</pubDate>
+    </item>
+    <item>
+        <title>Fractal_Bitcoin: Bitcoin waiting for October? ETF 8-day record streak of outflows, who is selling?? - Ep.185</title>
+        <itunes:author>Fractal_Bitcoin</itunes:author>
+        <itunes:keywords>[Bitcoin Market Trends, Price Predictions, ETF Impact]</itunes:keywords>
+        <description>The podcast presents a price update detailing Bitcoin&#39;s current value and predictions for the coming months, particularly October. It discusses record outflows in the Bitcoin market and reflects on past Halving years, correlating them with current trends.</description>
+        <enclosure url="https://podcasts.captivate.fm/media/38c3f6fd-67f8-4b73-b427-2c7833d2e079/185-Fractal-Bitcoin-2024-09-09-Bitcoin-waiting-for-October.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-10-5f90d35cf66546b9c380a356fb9f0147</guid>
+        <pubDate>Tue, 10 Sep 2024 16:36:05 CDT</pubDate>
+    </item>
+    <item>
+        <title>Life_with_Bitcoin: Think Big &amp; Start Small w/ Hero of Bitcoin, Creator of the Hero of Bitcoin Game</title>
+        <itunes:author>Life_with_Bitcoin</itunes:author>
+        <itunes:keywords>[Bitcoin Culture, Gaming, Community Support]</itunes:keywords>
+        <description>This episode features the creator of the &quot;Hero of Bitcoin&quot; game, which immerses players in Bitcoin culture through a narrative set in El Salvador. Discussions highlight community creativity and grassroots support for Bitcoin adoption.</description>
+        <enclosure url="https://media.rss.com/lifewithbitcoin/2024_09_09_19_45_15_fca73019-58f0-4960-8c1e-2fd9aa7550d0.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-10-38cbfacb9147c354f061e9c2fe9b4f02</guid>
+        <pubDate>Tue, 10 Sep 2024 16:36:05 CDT</pubDate>
+    </item>
+    <item>
+        <title>Live_From_Bitcoin_Beach: #Bitcoin Circular Economies - Bitcoin Beach Grants Winners | Bitcoin Sranan</title>
+        <itunes:author>Live_From_Bitcoin_Beach</itunes:author>
+        <itunes:keywords>[Circular Economies, Bitcoin Beach Initiative, Community Projects]</itunes:keywords>
+        <description>This episode highlights the winners of the Bitcoin Circular Economies Grants, focusing on meaningful projects like @BitcoinSranan in Suriname. Insights into the impact of Bitcoin Beach initiatives are shared.</description>
+        <enclosure url="https://www.buzzsprout.com/2087930/15695935-bitcoin-circular-economies-bitcoin-beach-grants-winners-bitcoin-sranan.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-10-bd4c97d260c9a941697f73f30720b3d9</guid>
+        <pubDate>Tue, 10 Sep 2024 16:36:05 CDT</pubDate>
+    </item>
+    <item>
+        <title>Money Matters with Jack Mallers: EP.35: Bitcoin &amp; Dollar Liquidity: Who&#39;s Really in Control?</title>
+        <itunes:author>Money Matters with Jack Mallers</itunes:author>
+        <itunes:keywords>[Financial Markets, Dollar Liquidity, Bitcoin Debate]</itunes:keywords>
+        <description>Bill Mallers Jr. joins to analyze Bitcoin’s recent price movements and its connection to broader financial trends, discussing macroeconomic shifts and insights from a debate on Bitcoin vs. Gold. </description>
+        <enclosure url="https://anchor.fm/s/e29097f4/podcast/play/91500573/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-9%2F246c3f5a-a8eb-cc16-db78-9addc9d7e2b1.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-10-338103f09f16bbfcfac0cede59c83a9e</guid>
+        <pubDate>Tue, 10 Sep 2024 16:36:05 CDT</pubDate>
+    </item>
+    <item>
+        <title>Onramp_Media: Wake Up Call (9.9.24): Wyatt O&#39;Rourke, Founder of Basilic Financial</title>
+        <itunes:author>Onramp_Media</itunes:author>
+        <itunes:keywords>[Bitcoin Investment Thesis, Financial Education, Legacy Financial Services]</itunes:keywords>
+        <description>This weekly show seeks to educate financial professionals about Bitcoin as an investment, highlighting its challenges and opportunities for differentiation from traditional financial services. The hosts interview guests to share their Bitcoin journeys.</description>
+        <enclosure url="https://anchor.fm/s/e01a5d48/podcast/play/91490615/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-9%2F386065113-44100-2-a5c147bf781e.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-10-78243f510b3438c5aeeaccc8afa81a46</guid>
+        <pubDate>Tue, 10 Sep 2024 16:36:05 CDT</pubDate>
+    </item>
+    <item>
+        <title>Simply_Bitcoin: Michael Saylor Predicts $13M Bitcoin on National TV | EP 1071</title>
+        <itunes:author>Simply_Bitcoin</itunes:author>
+        <itunes:keywords>[Bitcoin Predictions, Market Dynamics, Adoption]</itunes:keywords>
+        <description>Michael Saylor boldly predicts Bitcoin could reach $13 million during a televised discussion, addressing the implications for investors and the cryptocurrency market. The episode underscores Bitcoin&#39;s transformative role in the global economy.</description>
+        <enclosure url="https://anchor.fm/s/717a2198/podcast/play/91490482/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-9%2F7a798dee-bcdd-906e-4dc3-679a8e3ecd4b.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-10-101c78b6646188bd8208e48d04a0b6d9</guid>
+        <pubDate>Tue, 10 Sep 2024 16:36:05 CDT</pubDate>
+    </item>
+    <item>
+        <title>The_Bitcoin_Standard_Podcast: 238. Legal Foundations of a Free Society with Stephan Kinsella</title>
+        <itunes:author>The_Bitcoin_Standard_Podcast</itunes:author>
+        <itunes:keywords>[Libertarianism, Property Rights, Societal Freedom]</itunes:keywords>
+        <description>Legal Scholar Stephan Kinsella discusses his book on libertarianism and property rights vital for a free society, critiquing the concept of intellectual property. The discourse encourages reflection on how property rights uphold individual freedoms.</description>
+        <enclosure url="https://www.buzzsprout.com/1849151/15726461-238-legal-foundations-of-a-free-society-with-stephan-kinsella.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-10-37712daa52f1d082846574ea5bcd70b3</guid>
+        <pubDate>Tue, 10 Sep 2024 16:36:05 CDT</pubDate>
+    </item>
+    <item>
+        <title>The_Block_Reward__Bitcoin_For_Beginners: 50: What is Bitcoin?</title>
+        <itunes:author>The_Block_Reward__Bitcoin_For_Beginners</itunes:author>
+        <itunes:keywords>[Bitcoin Overview, Monetary Policy, Crypto Security]</itunes:keywords>
+        <description>In this milestone episode, Scott reflects on Bitcoin&#39;s unique features, monetary implications, and security mechanisms like proof of work. He emphasizes the historical context of Bitcoin in contrast to traditional currency systems.</description>
+        <enclosure url="https://audio-delivery.cohostpodcasting.com/audio/99707283-ab68-4240-9fff-177a3f522270/episodes/1774fa6b-db1f-4316-a9c6-74964f7e70d8/episode.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-10-58bfba0b0cf38a852f9ece778bcb3211</guid>
+        <pubDate>Tue, 10 Sep 2024 16:36:05 CDT</pubDate>
+    </item>
+    <item>
+        <title>The_Bugle_Weekly: Comedy Fundamentals With Fundamentals | Bugle Weekly Episode 25</title>
+        <itunes:author>The_Bugle_Weekly</itunes:author>
+        <itunes:keywords>[Bitcoin News, Cryptocurrency Trends, Comedic Commentary]</itunes:keywords>
+        <description>This episode covers significant Bitcoin news and notable developments in the cryptocurrency space, blending humor with insightful discussions on the current landscape. The hosts provide a comprehensive overview of recent events.</description>
+        <enclosure url="https://media.rss.com/bugle/2024_09_09_16_56_00_e824e6c3-7926-431d-80c5-65bc8e170578.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-10-a450ed4e4ae202d132a35acf1c06cb5d</guid>
+        <pubDate>Tue, 10 Sep 2024 16:36:05 CDT</pubDate>
+    </item>
+    <item>
+        <title>The_Canadian_Bitcoiners_Podcast: The CBP #180 (Bitcoin News Stories) - Canadian Elections, American Debates, Bitcoin Price Action</title>
+        <itunes:author>The_Canadian_Bitcoiners_Podcast</itunes:author>
+        <itunes:keywords>[Political Influence on Bitcoin, Price Analysis, Canadian Developments]</itunes:keywords>
+        <description>The hosts analyze current Bitcoin news related to Canadian elections and American debates, discussing their implications on the cryptocurrency market and how Bitcoin might affect Canada’s economy. </description>
+        <enclosure url="https://anchor.fm/s/538d43f4/podcast/play/91507048/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-10%2F68adb4d1-3d8f-9757-aba0-ea6c969ae17d.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-10-f02f5ca3e1408805a8503fc386180398</guid>
+        <pubDate>Tue, 10 Sep 2024 16:36:05 CDT</pubDate>
+    </item>
+    <item>
+        <title>The_Mining_Pod: Blockstream’s ASIC Mining Note With Adam Back</title>
+        <itunes:author>The_Mining_Pod</itunes:author>
+        <itunes:keywords>[Bitcoin Mining, Financial Instruments, Energy Consumption]</itunes:keywords>
+        <description>Adam Back, CEO of Blockstream, discusses the company’s mining operations and introduces a new financial instrument, the Mining Note, designed to allow individuals to invest in Bitcoin mining. The conversation includes insights on energy usage and investment strategies.</description>
+        <enclosure url="https://traffic.megaphone.fm/SSYDL8459515521.mp3?updated=1725924540" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-10-d5119e0917cddedcaf904f83bcf1dc67</guid>
+        <pubDate>Tue, 10 Sep 2024 16:36:05 CDT</pubDate>
+    </item>
+    <item>
+        <title>The_Progressive_Bitcoiner: TPB104 – Nostr: Promoting Freedom and Healing Brokenness with Will Casarin and Roger Huang</title>
+        <itunes:author>The_Progressive_Bitcoiner</itunes:author>
+        <itunes:keywords>[Nostr, Digital Freedom, Decentralized Communication]</itunes:keywords>
+        <description>Will Casarin discusses Nostr’s significance as a decentralized platform promoting freedom and addressing challenges in digital communications. He likens Nostr’s importance to that of Bitcoin in fostering social healing.</description>
+        <enclosure url="" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-09-10-e87d95fbdd4b69a64421ffb83d8ea413</guid>
+        <pubDate>Tue, 10 Sep 2024 16:36:05 CDT</pubDate>
+    </item>
+  </channel>
+</rss>
