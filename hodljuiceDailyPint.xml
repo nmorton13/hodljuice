@@ -1,311 +1,158 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>The Hodljuice Daily Pint</title>
-    <link>https://hodljuice.app</link>
-    <language>en-us</language>
-    <itunes:author>curated by Hodljuice</itunes:author>
-    <description>Daily collection of various Bitcoin-related podcasts</description>
-    <itunes:category text="Technology">
-    </itunes:category>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:owner>
-      <itunes:name>Hodljuice</itunes:name>
-      <itunes:email>hodljuice@hodljuice.app</itunes:email>
-    </itunes:owner>
-    <image>
-      <url>https://hodljuice.app/static/icon-512x512.png</url>
-      <title>The Hodljuice Daily Pint</title>
-      <link>https://hodljuice.app</link>
-    </image>
-    <lastBuildDate>Sat, 09 Nov 2024 07:08:00 CST</lastBuildDate>
+<channel>
+<title>The Hodljuice Daily Pint</title>
+<link>https://hodljuice.app</link>
+<language>en-us</language>
+<itunes:author>curated by Hodljuice</itunes:author>
+<description>Daily collection of various Bitcoin-related podcasts</description>
+<itunes:category text="Technology">
+</itunes:category>
+<itunes:explicit>no</itunes:explicit>
+<itunes:owner>
+<itunes:name>Hodljuice</itunes:name>
+<itunes:email>hodljuice@hodljuice.app</itunes:email>
+</itunes:owner>
+<image>
+<url>https://hodljuice.app/static/icon-512x512.png</url>
+<title>The Hodljuice Daily Pint</title>
+<link>https://hodljuice.app</link>
+</image>
+<lastBuildDate>Sat, 09 Nov 2024 07:57:02 CST</lastBuildDate>
     <item>
-        <title>Bitcoin and Markets  : ETF Options Approval and Central Bankers Attack Bitcoin With Nonsense - E410  </title>
-        <itunes:author>Bitcoin and Markets  </itunes:author>
-        <itunes:keywords>ETF options approval, Central banks, Macroeconomic analysis, Research in finance  </itunes:keywords>
-        <description>This episode discusses recent developments in ETF options approval and examines tactics by central bankers to undermine Bitcoin. It highlights macroeconomic factors influencing Bitcoin and critiques traditional financial rhetoric. The importance of conducting personal research amidst misinformation in the financial landscape is emphasized.  </description>
-        <enclosure url="[Listen here](https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/bitcoinandmarkets/e410.mp3?dest-id=1230017)" type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-09-556d7e7704faa5aa09ac6223a793c31c</guid>
-        <pubDate>Sat, 09 Nov 2024 07:08:00 CST</pubDate>
+        <title>Bitcoin and Markets: ETF Options Approval and Central Bankers Attack Bitcoin With Nonsense - E410</title>
+        <itunes:author>Bitcoin and Markets</itunes:author>
+        <itunes:keywords>[ETF options, Central banking rhetoric, Macroeconomic analysis, Importance of research]</itunes:keywords>
+        <description>This episode discusses ETF options approval and strategies used by central bankers to undermine Bitcoin. It analyzes macroeconomic factors affecting Bitcoin and critiques traditional financial institutions&#39; rhetoric. The episode stresses the importance of conducting independent research amidst financial misinformation.</description>
+        <enclosure url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/bitcoinandmarkets/e410.mp3?dest-id=1230017" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-11-09-d6f410433ddde26b54a3bb5ce7e49c60</guid>
+        <pubDate>Sat, 09 Nov 2024 07:57:02 CST</pubDate>
     </item>
     <item>
-        <title>Bitcoin Audible  : Chat 117-Bitcoin Threat Vectors on Final Settlement  </title>
-        <itunes:author>Bitcoin Audible  </itunes:author>
-        <itunes:keywords>Custodial threats, Secure custody, Bitcoin security, Personal security incident  </itunes:keywords>
-        <description>This episode tackles custodial threat vectors and security challenges unique to Bitcoin. Insights are shared from a personal security incident that highlights the need for secure custody. The evolution of Bitcoin custody and the importance of multisig setups are discussed. The episode raises awareness about the risks in securing Bitcoin as the industry grows.  </description>
-        <enclosure url="[Listen here](https://episodes.castos.com/6626b866f2af87-36468692/1878430/c1e-q7pqji280p1f7n7d9-rkdk607gczg9-fiy2jf.mp3)" type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-09-c2f64e4d098222a86b61fdba4f2f7c88</guid>
-        <pubDate>Sat, 09 Nov 2024 07:08:00 CST</pubDate>
+        <title>Bitcoin Audible: Chat 117-Bitcoin Threat Vectors on Final Settlement</title>
+        <itunes:author>Bitcoin Audible</itunes:author>
+        <itunes:keywords>[Bitcoin custody, Security challenges, Multisig setups, Personal security incident]</itunes:keywords>
+        <description>This episode covers Bitcoin custodial threat vectors and the unique security challenges associated with it. Insights from a personal security incident highlight the real risks faced by Bitcoin holders. The discussion includes the evolution of custody solutions and the importance of multisig setups for securing assets.</description>
+        <enclosure url="https://episodes.castos.com/6626b866f2af87-36468692/1878430/c1e-q7pqji280p1f7n7d9-rkdk607gczg9-fiy2jf.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-11-09-363cca346c62d4476e09a04ed1398730</guid>
+        <pubDate>Sat, 09 Nov 2024 07:57:02 CST</pubDate>
     </item>
     <item>
-        <title>BTC Sessions  : WHY ARE WE BULLISH? David Branscum, Aladdin (BTC Cards), Nathan Fitzsimmons (The BTC Mentor) ep251  </title>
-        <itunes:author>BTC Sessions  </itunes:author>
-        <itunes:keywords>Bullish sentiment, Investment strategies, Self-custody, Hardware wallets  </itunes:keywords>
-        <description>This episode features a panel discussion on the bullish sentiment around Bitcoin and various strategies for investment and self-custody. Key insights involve the importance of self-custody and benefits of hardware wallets. The panelists share their experiences related to Bitcoin&#39;s recent market behavior, emphasizing privacy in transactions.  </description>
-        <enclosure url="[Listen here](https://anchor.fm/s/11e95d20/podcast/play/94169263/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-9%2Fddaa9f83-a2c4-85a4-8f74-9ae887ad37b9.m4a)" type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-09-e9a2aa15c70fe8e89132081f889b40dd</guid>
-        <pubDate>Sat, 09 Nov 2024 07:08:00 CST</pubDate>
+        <title>BTC Sessions: WHY ARE WE BULLISH? David Branscum, Aladdin (BTC Cards), Nathan Fitzsimmons (The BTC Mentor) ep251</title>
+        <itunes:author>BTC Sessions</itunes:author>
+        <itunes:keywords>[Bullish sentiment, Investment strategies, Self-custody, Hardware wallets]</itunes:keywords>
+        <description>This episode features a discussion on the bullish sentiment surrounding Bitcoin, focusing on investment strategies and self-custody. Guests share their experiences with hardware wallets and the implications of Bitcoin&#39;s market behavior. The conversation emphasizes the importance of privacy and secure engagement with Bitcoin.</description>
+        <enclosure url="https://anchor.fm/s/11e95d20/podcast/play/94169263/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-9%2Fddaa9f83-a2c4-85a4-8f74-9ae887ad37b9.m4a" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-11-09-f27b4663317cbb7541f07d29f73078d3</guid>
+        <pubDate>Sat, 09 Nov 2024 07:57:02 CST</pubDate>
     </item>
     <item>
-        <title>Coin Stories  : &#39;News Block: Bitcoin Enters Price Discovery After Trump Win, Fed Cuts Rates Again, Bond Yields Rise Amid Inflation Fears&#39;  </title>
-        <itunes:author>Coin Stories  </itunes:author>
-        <itunes:keywords>Bitcoin price discovery, Political developments, Institutional adoption, Economic indicators  </itunes:keywords>
-        <description>This week&#39;s episode covers major headlines related to Bitcoin and global finance post-Trump&#39;s election win. It discusses implications of rate cuts by the Federal Reserve and rising bond yields amid inflation fears. The episode highlights Bitcoin&#39;s institutional adoption and significant market dynamics influenced by politics.  </description>
-        <enclosure url="[Listen here](https://traffic.libsyn.com/secure/coinstories/307_61_NewsBlock_Nat.mp3?dest-id=2813255)" type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-09-15c481ed4d772d2e42b1aacf944d1fc8</guid>
-        <pubDate>Sat, 09 Nov 2024 07:08:00 CST</pubDate>
+        <title>Coin Stories: &#39;News Block: Bitcoin Enters Price Discovery After Trump Win, Fed Cuts Rates Again, Bond Yields Rise Amid Inflation Fears&#39;</title>
+        <itunes:author>Coin Stories</itunes:author>
+        <itunes:keywords>[Price discovery, Political impact, Institutional adoption, Economic trends]</itunes:keywords>
+        <description>This episode covers critical news affecting Bitcoin, including its record highs following Trump&#39;s re-election and pro-crypto candidates winning congressional seats. It also discusses the Federal Reserve&#39;s rate cuts and their implications for Bitcoin alongside institutional adoption trends. The episode analyzes investment movements and Bitcoin&#39;s current economic environment.</description>
+        <enclosure url="https://traffic.libsyn.com/secure/coinstories/307_61_NewsBlock_Nat.mp3?dest-id=2813255" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-11-09-7cf8945ac2ba3f0c051b07bd7d03b705</guid>
+        <pubDate>Sat, 09 Nov 2024 07:57:02 CST</pubDate>
     </item>
     <item>
-        <title>Fractal Bitcoin  : Bitcoin 3rd day all-time highs! $420K in 2025?! Global FOMO incoming! - Ep.217  </title>
-        <itunes:author>Fractal Bitcoin  </itunes:author>
-        <itunes:keywords>Price forecasts, Bitcoin ETFs, Adoption trends, Economic transformations  </itunes:keywords>
-        <description>Today&#39;s episode highlights Bitcoin&#39;s entry into price discovery mode with analysts predicting significant price targets. It discusses recent ETF developments surpassing those of gold and historical perspectives on Bitcoin adoption. Noteworthy events include significant Bitcoin purchases and shifts in governmental acceptance of cryptocurrency.  </description>
-        <enclosure url="[Listen here](https://podcasts.captivate.fm/media/49a9d7c1-2716-4a9f-ac7b-7832619173d5/217-Fractal-Bitcoin-2024-11-08-Bitcoin-3rd-day-all-time-highs-4.mp3)" type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-09-2d720b9cbbf4c257a47667214d6bdae8</guid>
-        <pubDate>Sat, 09 Nov 2024 07:08:00 CST</pubDate>
+        <title>Fractal Bitcoin: Bitcoin 3rd day all-time highs! $420K in 2025?! Global FOMO incoming! - Ep.217</title>
+        <itunes:author>Fractal Bitcoin</itunes:author>
+        <itunes:keywords>[Price discovery, ETF growth, Historical comparisons, Government adoption]</itunes:keywords>
+        <description>This episode highlights Bitcoin&#39;s recent price activity, suggesting an ambitious price projection of $420,000 by 2025 amid a surge in ETF assets. It compares Bitcoin&#39;s adoption to the internet&#39;s growth and discusses significant developments in municipal acceptance of cryptocurrencies for tax payments. Noteworthy events include record purchases by Bitcoin ETFs.</description>
+        <enclosure url="https://podcasts.captivate.fm/media/49a9d7c1-2716-4a9f-ac7b-7832619173d5/217-Fractal-Bitcoin-2024-11-08-Bitcoin-3rd-day-all-time-highs-4.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-11-09-aa796bad9f281d39002a298826e2a1cc</guid>
+        <pubDate>Sat, 09 Nov 2024 07:57:02 CST</pubDate>
     </item>
     <item>
-        <title>Onramp Media  : &#39;The Last Trade E073: The Orange Wave with Larry Lepard &amp; David Foley&#39;  </title>
-        <itunes:author>Onramp Media  </itunes:author>
-        <itunes:keywords>Bitcoin and monetary policy, Strategic reserves, Economic insights  </itunes:keywords>
-        <description>This episode discusses Bitcoin in the context of upcoming elections and its influence on monetary policy. It explores the significance of a supportive administration for Bitcoin adoption and the concept of a Strategic Bitcoin Reserve. The discussion emphasizes Bitcoin’s role in the current economic landscape and market dynamics.  </description>
-        <enclosure url="[Listen here](https://anchor.fm/s/e01a5d48/podcast/play/94144964/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-8%2F389471753-44100-2-dc2acdf376635.mp3)" type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-09-053515adb0cc504e2ce9b70e39b916ee</guid>
-        <pubDate>Sat, 09 Nov 2024 07:08:00 CST</pubDate>
+        <title>Onramp Media: &#39;The Last Trade E073: The Orange Wave with Larry Lepard &amp; David Foley&#39;</title>
+        <itunes:author>Onramp Media</itunes:author>
+        <itunes:keywords>[Election impact, Bitcoin reserves, Monetary policy, Institutional strategies]</itunes:keywords>
+        <description>This episode discusses the intersection of Bitcoin and upcoming election dynamics, emphasizing the potential for a pro-Bitcoin administration. Topics include the idea of a Strategic Bitcoin Reserve and the role of sound assets in today’s economy. The discussion includes market insights and comparisons between Bitcoin and gold.</description>
+        <enclosure url="https://anchor.fm/s/e01a5d48/podcast/play/94144964/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-8%2F389471753-44100-2-dc2acdf376635.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-11-09-ab2254d1ac56507442131746132698a9</guid>
+        <pubDate>Sat, 09 Nov 2024 07:57:02 CST</pubDate>
     </item>
     <item>
-        <title>Pleb Underground  : Bitcoin Mining CRISIS On The Horizon?  </title>
-        <itunes:author>Pleb Underground  </itunes:author>
-        <itunes:keywords>Bitcoin mining challenges, Operational costs, Resource allocation, Market trends  </itunes:keywords>
-        <description>This episode addresses the potential crisis in Bitcoin mining due to rising operational costs and declining profitability. It examines resource shifts from mining to AI and Galaxy Digital&#39;s recent struggles. The hosts discuss the implications of these trends within the broader cryptocurrency landscape.  </description>
-        <enclosure url="[Listen here](https://anchor.fm/s/add2abc4/podcast/play/94169424/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-9%2F389502020-44100-2-9158645eb7646.mp3)" type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-09-d1fb0c646533aa0c085e7e5ee7bf6745</guid>
-        <pubDate>Sat, 09 Nov 2024 07:08:00 CST</pubDate>
+        <title>Pleb Underground: Bitcoin Mining CRISIS On The Horizon?</title>
+        <itunes:author>Pleb Underground</itunes:author>
+        <itunes:keywords>[Bitcoin mining crisis, Cost implications, Resource allocation, Profitability concerns]</itunes:keywords>
+        <description>This episode explores a looming crisis in Bitcoin mining as operational costs rise and profits decline. Hosts discuss resource shifts towards AI and the financial viability of Bitcoin mining operations. The discussion provides insights into current trends and challenges faced by miners in the cryptocurrency landscape.</description>
+        <enclosure url="https://anchor.fm/s/add2abc4/podcast/play/94169424/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-9%2F389502020-44100-2-9158645eb7646.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-11-09-3fcc4e2a40fa721fb078c96ab2a86969</guid>
+        <pubDate>Sat, 09 Nov 2024 07:57:02 CST</pubDate>
     </item>
     <item>
-        <title>Robin Seyer  : &#39;Trillion-Dollar BTC Bet: Microstrategy Soon Biggest Firm in the world?&#39;  </title>
-        <itunes:author>Robin Seyer  </itunes:author>
-        <itunes:keywords>MicroStrategy, Bitcoin as a commodity, Future of finance  </itunes:keywords>
-        <description>Tim Kotzman shares insights about his journey into Bitcoin and discusses MicroStrategy&#39;s potential as a trillion-dollar firm. The episode emphasizes Bitcoin’s role as a commodity within the evolving economy and highlights the need for accessible avenues for engagement with cryptocurrency.  </description>
-        <enclosure url="[Listen here](https://anchor.fm/s/ed1174c8/podcast/play/93963409/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-4%2F389246724-44100-2-b067ffb217345.mp3)" type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-09-33c1c525dac35b3ca73649bd10202d1f</guid>
-        <pubDate>Sat, 09 Nov 2024 07:08:00 CST</pubDate>
+        <title>Robin Seyer: &#39;Trillion-Dollar BTC Bet: Microstrategy Soon Biggest Firm in the world?&#39;</title>
+        <itunes:author>Robin Seyer</itunes:author>
+        <itunes:keywords>[MicroStrategy&#39;s Bitcoin strategy, Future of finance, Bitcoin as a commodity, Educational accessibility]</itunes:keywords>
+        <description>Tim Kotzman discusses Bitcoin&#39;s transformative potential through MicroStrategy&#39;s significant investments, suggesting it could evolve into a trillion-dollar entity. The episode highlights Bitcoin as a commodity and emphasizes the need for accessible channels for engaging with cryptocurrency. It positions MicroStrategy at the forefront of Bitcoin&#39;s integration into the broader economy.</description>
+        <enclosure url="https://anchor.fm/s/ed1174c8/podcast/play/93963409/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-4%2F389246724-44100-2-b067ffb217345.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-11-09-7579b366a568fd7b586553212a756117</guid>
+        <pubDate>Sat, 09 Nov 2024 07:57:02 CST</pubDate>
     </item>
     <item>
-        <title>Simply Bitcoin  : &#39;BREAKING: Central Banker EXPOSED In BOMBSHELL Interview | EP 1115&#39;  </title>
-        <itunes:author>Simply Bitcoin  </itunes:author>
-        <itunes:keywords>Central banking policies, Monetary policy, Digital currency implications  </itunes:keywords>
-        <description>This episode covers Jerome Powell&#39;s revealing interview regarding central banking policies and their implications for the economy. The discussion includes analysis of monetary policy and its potential consequences for Bitcoin and the broader financial landscape. This episode reflects on important economic changes.  </description>
-        <enclosure url="[Listen here](https://anchor.fm/s/717a2198/podcast/play/94158233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-8%2Fe85e7f81-f206-0540-74ad-aa5165431a58.mp3)" type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-09-d8a5ca9123295e4cb7f2313e50f09dca</guid>
-        <pubDate>Sat, 09 Nov 2024 07:08:00 CST</pubDate>
+        <title>Simply Bitcoin: &#39;BREAKING: Central Banker EXPOSED In BOMBSHELL Interview | EP 1115&#39;</title>
+        <itunes:author>Simply Bitcoin</itunes:author>
+        <itunes:keywords>[Central banking policies, Monetary implications, Financial landscape, Inflation]</itunes:keywords>
+        <description>This episode discusses controversial remarks made by Jerome Powell concerning central banking practices and their ramifications for the economy. The analysis focuses on the future of digital currencies and the implications of monetary policies on Bitcoin and inflationary concerns. This disclosure is contextualized against current economic challenges.</description>
+        <enclosure url="https://anchor.fm/s/717a2198/podcast/play/94158233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-8%2Fe85e7f81-f206-0540-74ad-aa5165431a58.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-11-09-e206ae5be87623a8c2dbaf2c8a1bdeaf</guid>
+        <pubDate>Sat, 09 Nov 2024 07:57:02 CST</pubDate>
     </item>
     <item>
-        <title>Swan Signal Live A Bitcoin Show  : Is This the Start of a Super Cycle?  </title>
-        <itunes:author>Swan Signal Live A Bitcoin Show  </itunes:author>
-        <itunes:keywords>Bitcoin price trends, Government Bitcoin policies, ETF impacts, Market cycles  </itunes:keywords>
-        <description>This episode analyzes Bitcoin&#39;s developments post-Trump’s victory, discussing potential price super cycles and government support for Bitcoin. Key insights include significant inflows into Bitcoin ETFs and ongoing discussions about the Fed&#39;s policies. The general sentiment suggests a transformative phase for Bitcoin adoption.  </description>
-        <enclosure url="[Listen here](https://cdn.simplecast.com/audio/6b4113f8-61fd-4976-a3e6-4d8ed2143233/episodes/66c8eb04-aad5-4762-a7e7-a6ff764b45a7/audio/7db6bc1b-31ed-4638-9ed1-87221b7150db/default_tc.mp3?aid=rss_feed&amp;feed=Z1tu2Hds)" type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-09-9a6fbb66aff6114e5a08b05a0e388024</guid>
-        <pubDate>Sat, 09 Nov 2024 07:08:00 CST</pubDate>
+        <title>Swan Signal Live A Bitcoin Show: Is This the Start of a Super Cycle?</title>
+        <itunes:author>Swan Signal Live A Bitcoin Show</itunes:author>
+        <itunes:keywords>[Market trends, Policy impact, Government support, Price projections]</itunes:keywords>
+        <description>The discussion revolves around Bitcoin&#39;s performance following Trump&#39;s election, with a focus on potential new price highs and the possibility of a &quot;super cycle.&quot; It examines expected government policies favorable to Bitcoin, including potential strategic reserves. The episode captures a sense of optimism about Bitcoin&#39;s mainstream acceptance.</description>
+        <enclosure url="https://cdn.simplecast.com/audio/6b4113f8-61fd-4976-a3e6-4d8ed2143233/episodes/66c8eb04-aad5-4762-a7e7-a6ff764b45a7/audio/7db6bc1b-31ed-4638-9ed1-87221b7150db/default_tc.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-11-09-6a6e060bcd4cf19752027aa289a579c5</guid>
+        <pubDate>Sat, 09 Nov 2024 07:57:02 CST</pubDate>
     </item>
     <item>
-        <title>TFTC A Bitcoin Podcast  : &#39;#554: UAP Disclosure Is Upon Us with Matt Pines&#39;  </title>
-        <itunes:author>TFTC A Bitcoin Podcast  </itunes:author>
-        <itunes:keywords>Bitcoin policy implications, UAP disclosures, Geopolitical insights  </itunes:keywords>
-        <description>This episode features a discussion on Bitcoin policy under Trump and the anticipated public disclosure regarding UAPs. Key topics address the evolution of institutions, the importance of strategic thinking, and the implications of geopolitical shifts on Bitcoin. The conversation unfolds various angles related to current events.  </description>
-        <enclosure url="[Listen here](https://anchor.fm/s/558f520/podcast/play/94118870/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-7%2F389439343-44100-2-9e27664ca37c4.mp3)" type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-09-9b6d19014c8a07b7d43d4d224882cc7b</guid>
-        <pubDate>Sat, 09 Nov 2024 07:08:00 CST</pubDate>
+        <title>TFTC A Bitcoin Podcast: &#39;#554: UAP Disclosure Is Upon Us with Matt Pines&#39;</title>
+        <itunes:author>TFTC A Bitcoin Podcast</itunes:author>
+        <itunes:keywords>[UAP disclosure, Bitcoin policy, Supranational institutions, Geopolitical insight]</itunes:keywords>
+        <description>This episode with Matt Pines discusses the potential inclusion of Bitcoin in Trump&#39;s policy amidst an impending UAP disclosure. It covers the evolution of supranational financial institutions, American geopolitical power, and the implications of technology in current defense strategies. Key insights highlight the intersections between these areas and Bitcoin&#39;s future.</description>
+        <enclosure url="https://anchor.fm/s/558f520/podcast/play/94118870/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-7%2F389439343-44100-2-9e27664ca37c4.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-11-09-1175a2dd9632d69e35355d44bf9ba245</guid>
+        <pubDate>Sat, 09 Nov 2024 07:57:02 CST</pubDate>
     </item>
     <item>
-        <title>The Mark Moss Show  : China Fires A Monetary Bazooka... Will It Be Enough?  </title>
-        <itunes:author>The Mark Moss Show  </itunes:author>
-        <itunes:keywords>China&#39;s economic policy, Global market impact, Investment strategies  </itunes:keywords>
-        <description>This episode discusses China&#39;s bold monetary policy actions aimed at rescuing its economy and the implications for global markets, including Bitcoin. It delves into historical impacts of similar moves on asset prices, providing listeners with insights on positioning their investments. The potential opportunities and risks of this monetary strategy are examined.  </description>
-        <enclosure url="[Listen here](https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/7abcd9bc-1b66-4c1e-a89b-ae3c000322cc/58919d90-21e3-4fa0-8970-b22201811bef/audio.mp3?utm_source=Podcast&amp;in_playlist=9acb2eb4-8765-4a8a-8a57-ae3c000322da)" type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-09-ab00f6863bb50400752ea4d8fba3f18b</guid>
-        <pubDate>Sat, 09 Nov 2024 07:08:00 CST</pubDate>
+        <title>The Mark Moss Show: China Fires A Monetary Bazooka... Will It Be Enough?</title>
+        <itunes:author>The Mark Moss Show</itunes:author>
+        <itunes:keywords>[China&#39;s financial strategy, Global market impact, Bitcoin implications, Investment strategies]</itunes:keywords>
+        <description>Analyzing China&#39;s dramatic financial maneuvers, this episode questions the potential effects on global markets, including U.S. stocks and Bitcoin. Historical insights into past economic strategies provide context for current events. The discussion emphasizes the need for investment positioning in the wake of these developments.</description>
+        <enclosure url="https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/7abcd9bc-1b66-4c1e-a89b-ae3c000322cc/58919d90-21e3-4fa0-8970-b22201811bef/audio.mp3?utm_source=Podcast&in_playlist=9acb2eb4-8765-4a8a-8a57-ae3c000322da" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-11-09-e02805fe36a4d20f0fce82e52ea7c107</guid>
+        <pubDate>Sat, 09 Nov 2024 07:57:02 CST</pubDate>
     </item>
     <item>
-        <title>The Transformation of Value  : What is Nuclear Energy with Nick Touran  </title>
-        <itunes:author>The Transformation of Value  </itunes:author>
-        <itunes:keywords>Nuclear energy, Regulatory challenges, Economic implications  </itunes:keywords>
-        <description>In this episode, Nick Touran discusses the intricate realities surrounding nuclear energy. The conversation covers its historical context, current global challenges, and the future outlook for nuclear technology and energy abundance.  </description>
-        <enclosure url="[Listen here](https://anchor.fm/s/d48d2ca8/podcast/play/94135276/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-8%2Fb7b6dca5-c70b-1184-8541-982ef2ce72b7.mp3)" type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-09-d2b882e5a994b5c5a3041671daccdf27</guid>
-        <pubDate>Sat, 09 Nov 2024 07:08:00 CST</pubDate>
+        <title>The Transformation of Value: What is Nuclear Energy with Nick Touran</title>
+        <itunes:author>The Transformation of Value</itunes:author>
+        <itunes:keywords>[Nuclear energy, Political challenges, Economic implications, Regulatory landscape]</itunes:keywords>
+        <description>This episode features a discussion with nuclear engineer Nick Touran about the challenges and opportunities facing the nuclear energy sector. The conversation covers the history of nuclear energy, its current regulatory issues, and the outlook for future technology in energy production and abundance.</description>
+        <enclosure url="https://anchor.fm/s/d48d2ca8/podcast/play/94135276/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-8%2Fb7b6dca5-c70b-1184-8541-982ef2ce72b7.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-11-09-9321da2b50c1bbb1ce1477a449e1cbd0</guid>
+        <pubDate>Sat, 09 Nov 2024 07:57:02 CST</pubDate>
     </item>
     <item>
-        <title>The What is Money Show  : Can Trump Save the West? Freedom, Peterson vs. Dawkins, COVID &amp; Bitcoin w/ Bret Weinstein (WiM529)  </title>
-        <itunes:author>The What is Money Show  </itunes:author>
-        <itunes:keywords>Political discourse, Technology impact, Evolution of ideas  </itunes:keywords>
-        <description>Dr. Bret Weinstein discusses various topics including incentives in evolution, Trump&#39;s potential impact on democracy, and the intersection of technology with academia. The conversation explores key debates and issues surrounding freedom, societal evolution, and the global struggle between liberty and control.  </description>
-        <enclosure url="[Listen here](https://cdn.simplecast.com/audio/2effec98-bec5-4728-ba08-7a86d776e682/episodes/fbe9659d-6735-4ccd-847b-7989b8eb4460/audio/ddd283fc-e95f-494d-a880-a57c48878ba2/default_tc.mp3?aid=rss_feed&amp;feed=MLdpYXYI)" type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-09-e0b25f3c8db1ca25e83c00c2197117e8</guid>
-        <pubDate>Sat, 09 Nov 2024 07:08:00 CST</pubDate>
+        <title>The What is Money Show: Can Trump Save the West? Freedom, Peterson vs. Dawkins, COVID &amp; Bitcoin w/ Bret Weinstein (WiM529)</title>
+        <itunes:author>The What is Money Show</itunes:author>
+        <itunes:keywords>[Incentives in evolution, Libertarianism, Technology in academia, Freedom vs. tyranny]</itunes:keywords>
+        <description>Dr. Bret Weinstein discusses the interplay of incentives in evolution and the relevance of Libertarianism to contemporary society, along with the potential impacts of Trump on freedom and governance. The dialogue explores major cultural debates, including the discourse surrounding COVID-19 mandates and their implications for societal values.</description>
+        <enclosure url="https://cdn.simplecast.com/audio/2effec98-bec5-4728-ba08-7a86d776e682/episodes/fbe9659d-6735-4ccd-847b-7989b8eb4460/audio/ddd283fc-e95f-494d-a880-a57c48878ba2/default_tc.mp3?aid=rss_feed&feed=MLdpYXYI" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-11-09-820078ecbf5a2e8224037b2d5dad12ab</guid>
+        <pubDate>Sat, 09 Nov 2024 07:57:02 CST</pubDate>
     </item>
     <item>
-        <title>Token Metrics Daily Podcast  : Rate Down, Crypto Up, BTC Tax  </title>
-        <itunes:author>Token Metrics Daily Podcast  </itunes:author>
-        <itunes:keywords>Cryptocurrency market response, Economic indicators, Local cryptocurrency adoption  </itunes:keywords>
-        <description>Today&#39;s episode discusses the surge in cryptocurrency values following the US Federal Reserve&#39;s interest rate decision. It highlights a city&#39;s strong embrace of cryptocurrency, emphasizing the proactive role of crypto in informing events.  </description>
-        <enclosure url="[Listen here](https://www.buzzsprout.com/2224561/episodes/16070362-rate-down-crypto-up-btc-tax.mp3)" type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-09-a3255eecf8a9bba749836ec33e603893</guid>
-        <pubDate>Sat, 09 Nov 2024 07:08:00 CST</pubDate>
+        <title>Token Metrics Daily Podcast: Rate Down, Crypto Up, BTC Tax📊</title>
+        <itunes:author>Token Metrics Daily Podcast</itunes:author>
+        <itunes:keywords>[Fed rate decision, Crypto market response, Urban crypto adoption, Timeliness of information]</itunes:keywords>
+        <description>This episode discusses the positive response of the crypto market to the US Federal Reserve&#39;s rate decision, alongside a focus on a US city significantly embracing cryptocurrency. The conversation highlights the role of crypto in improving public awareness of financial events.</description>
+        <enclosure url="https://www.buzzsprout.com/2224561/episodes/16070362-rate-down-crypto-up-btc-tax.mp3" type="audio/mpeg" length="0" />
+        <guid isPermaLink="false">hodljuice-2024-11-09-2028200e8b077474c23fdf429942979a</guid>
+        <pubDate>Sat, 09 Nov 2024 07:57:02 CST</pubDate>
     </item>
-    <item>
-        <title>BTC Sessions  : 1st Pro-Bitcoin President Wins Landslide: What Lies Ahead for Bitcoin? ep450  </title>
-        <itunes:author>BTC Sessions  </itunes:author>
-        <itunes:keywords>Pro-Bitcoin Politics, Corporate Bitcoin Adoption, Strategic Reserves, Market Analysis  </itunes:keywords>
-        <description>This episode covers the historic win of the first pro-Bitcoin U.S. president and its implications for the Bitcoin industry. It also discusses Deutsche Telekom&#39;s mining initiative and speculates on a potential U.S. Bitcoin reserve. The hosts delve into the market impacts of MicroStrategy&#39;s substantial Bitcoin purchase as well.  </description>
-        <enclosure url="[Listen Here](https://anchor.fm/s/11e95d20/podcast/play/94123331/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-8%2Fee7935c1-3642-3c1b-cb81-903423b5c537.m4a)  " type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-07-5795f208922cd239e4554372a9ed2e47</guid>
-        <pubDate>Thu, 07 Nov 2024 21:20:00 CST</pubDate>
-    </item>
-    <item>
-        <title>Bitcoin Takeover Podcast  : S15 E64: David Johnston on Bitcoin 2.0 &amp; Decentralized AI  </title>
-        <itunes:author>Bitcoin Takeover Podcast  </itunes:author>
-        <itunes:keywords>Decentralization, Bitcoin Technology, AI, Innovation  </itunes:keywords>
-        <description>In this episode, David A. Johnston discusses his philosophy on decentralization, which posits that everything that can be decentralized will be. He reflects on his past work with the Omni layer and shares his perspective on decentralized AI.  </description>
-        <enclosure url="[Listen Here](https://bitcoin-takeover.com/audio/media/2024-11-07_s15_e64_david_a._johnston_on_bitcoin_2.0_decentralized_ai_-_07.11.2024_01.20.mp3)  " type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-07-6db487d45420e3f070597b929cb7ba06</guid>
-        <pubDate>Thu, 07 Nov 2024 21:20:00 CST</pubDate>
-    </item>
-    <item>
-        <title>Bitcoin Markets  : Microsoft Votes On Bitcoin, BRICS Launch Dollar Killer - E411  </title>
-        <itunes:author>Bitcoin Markets  </itunes:author>
-        <itunes:keywords>Geopolitics, Macroeconomics, Bitcoin Adoption, Currency Competition  </itunes:keywords>
-        <description>This episode explores Microsoft&#39;s engagement with Bitcoin and the introduction of a BRICS currency aimed at countering the U.S. dollar. The hosts analyze the geopolitical and macroeconomic implications of these developments and emphasize the importance of independent research.  </description>
-        <enclosure url="[Listen Here](https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/bitcoinandmarkets/e411.mp3?dest-id=1230017)  " type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-07-6bae10adaa9ad9a4da3b14f905dedc5e</guid>
-        <pubDate>Thu, 07 Nov 2024 21:20:00 CST</pubDate>
-    </item>
-    <item>
-        <title>Bitcoin and Markets  : Microsoft Votes On Bitcoin, BRICS Launch Dollar Killer - E411  </title>
-        <itunes:author>Bitcoin and Markets  </itunes:author>
-        <itunes:keywords>Bitcoin and Geopolitics, Currency Dynamics, Economic Analysis  </itunes:keywords>
-        <description>The hosts discuss Microsoft&#39;s support for Bitcoin and how BRICS nations aim to challenge the U.S. dollar&#39;s dominance. They go into macroeconomic implications and share insights that underscore the importance of thorough research for understanding the evolving cryptocurrency landscape.  </description>
-        <enclosure url="[Listen Here](https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/bitcoinandmarkets/e411.mp3?dest-id=1230017)  " type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-07-76f3ac2ec6ddd864609fea2a6aa50663</guid>
-        <pubDate>Thu, 07 Nov 2024 21:20:00 CST</pubDate>
-    </item>
-    <item>
-        <title>Bitcoin for Millennials  : Former crypto degenerate shares why only Bitcoin matters | Arsen Thagapsov | BFM097  </title>
-        <itunes:author>Bitcoin for Millennials  </itunes:author>
-        <itunes:keywords>Bitcoin Philosophy, Industry Insights, Personal Journey  </itunes:keywords>
-        <description>Arsen Thagapsov shares his transformative journey in the Bitcoin space, highlighting his work with Bitcoin Therapy and his views on Bitcoin&#39;s significance compared to altcoins. The episode includes discussions on financial education, Bitcoin&#39;s impact on society, and its future potential.  </description>
-        <enclosure url="[Listen Here](https://anchor.fm/s/e82b7a08/podcast/play/92934411/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-12%2F387972296-44100-2-144d4efd422a4.mp3)  " type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-07-5862b245fa0d2cb0178e326c34458e71</guid>
-        <pubDate>Thu, 07 Nov 2024 21:20:00 CST</pubDate>
-    </item>
-    <item>
-        <title>Coin Stories with Natalie Brunell  : Col. Douglas Macgregor: Next Trump Presidency, the Economy &amp; World War III  </title>
-        <itunes:author>Coin Stories with Natalie Brunell  </itunes:author>
-        <itunes:keywords>Economic Forecast, Political Analysis, Global Conflict  </itunes:keywords>
-        <description>Col. Douglas Macgregor discusses the economic future under the next presidential administration, warning of potential financial crises. He examines the roles of gold, Bitcoin, and cash in investment strategies, as well as the risks of escalating global conflicts.  </description>
-        <enclosure url="[Listen Here](https://traffic.libsyn.com/secure/coinstories/306_Col_Macgregor_Election_24.mp3?dest-id=2813255)  " type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-07-66fa22ab4daa62cfd5036619fd85b4b1</guid>
-        <pubDate>Thu, 07 Nov 2024 21:20:00 CST</pubDate>
-    </item>
-    <item>
-        <title>Fractal Bitcoin  : Bitcoin soaring, riding the wave UP! Countries will FOMO soon! Nostr turns 4! - Ep.216  </title>
-        <itunes:author>Fractal Bitcoin  </itunes:author>
-        <itunes:keywords>Market Trends, Institutional Adoption, Economic Indicators  </itunes:keywords>
-        <description>The episode discusses Bitcoin&#39;s recent price surge and its potential to reach $100,000 before the next presidential inauguration. Analysts talk about the significance of the U.S. possibly approving Bitcoin as a strategic reserve asset and its implications for institutional interest and global engagement.  </description>
-        <enclosure url="[Listen Here](https://podcasts.captivate.fm/media/e4e6614f-8ad9-4c94-943e-30999aa72a1b/216-Fractal-Bitcoin-2024-11-07-Bitcoin-soaring-riding-the-wave-.mp3)  " type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-07-859c45541e27370d4ad6f27a55ed6c9f</guid>
-        <pubDate>Thu, 07 Nov 2024 21:20:00 CST</pubDate>
-    </item>
-    <item>
-        <title>Galaxy Brains  : Trump Win and Bitcoin  </title>
-        <itunes:author>Galaxy Brains  </itunes:author>
-        <itunes:keywords>Market Implications, Election Analysis, Cryptocurrency Outlook  </itunes:keywords>
-        <description>Alex Thorn and Beimnet Abebe discuss the ramifications of Trump&#39;s election victory for the cryptocurrency market. They provide insights on what the election results mean for Bitcoin&#39;s future trajectory.  </description>
-        <enclosure url="[Listen Here](https://traffic.megaphone.fm/GD2028310853.mp3?updated=1730984261)  " type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-07-de450d6f383597d994aeaed96d2fd970</guid>
-        <pubDate>Thu, 07 Nov 2024 21:20:00 CST</pubDate>
-    </item>
-    <item>
-        <title>Once Bitten A Bitcoin Podcast  : How Bitcoin Changed My Life. @hldbtc #502  </title>
-        <itunes:author>Once Bitten A Bitcoin Podcast  </itunes:author>
-        <itunes:keywords>Personal Transformation, Bitcoin Impact, Life Changes  </itunes:keywords>
-        <description>Caleb shares his personal journey and the profound effects Bitcoin has had on his life across various aspects, including professional, personal, and spiritual dimensions. He emphasizes the significance of gradual changes for long-term transformation.  </description>
-        <enclosure url="[Listen Here](https://anchor.fm/s/1346f9e8/podcast/play/94106783/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-7%2Fcba67090-8e59-ef9f-7d99-cb2a9d7b03c5.mp3)  " type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-07-0e3e651353003cf479ad9f36c1e2a139</guid>
-        <pubDate>Thu, 07 Nov 2024 21:20:00 CST</pubDate>
-    </item>
-    <item>
-        <title>Pleb Underground  : Bitcoin Hits NEW ATH!  </title>
-        <itunes:author>Pleb Underground  </itunes:author>
-        <itunes:keywords>Price Surges, Market Analysis, Community Insights  </itunes:keywords>
-        <description>The hosts analyze the recent surge in Bitcoin prices while addressing concerns related to MT GOX. They discuss the implications of potential actions from long-held Bitcoin hodlers and share personal experiences with market volatility and FUD.  </description>
-        <enclosure url="[Listen Here](https://anchor.fm/s/add2abc4/podcast/play/94064333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389371303-44100-2-d19f6e29d4dcb.mp3)  " type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-07-c5b2c2155a68f7f2b06fce559213e868</guid>
-        <pubDate>Thu, 07 Nov 2024 21:20:00 CST</pubDate>
-    </item>
-    <item>
-        <title>Rabbit Hole Recap  : THE FIRST BITCOIN ELECTION | RABBIT HOLE RECAP #330  </title>
-        <itunes:author>Rabbit Hole Recap  </itunes:author>
-        <itunes:keywords>Election Dynamics, Bitcoin Prices, Human Rights  </itunes:keywords>
-        <description>This episode reviews the recent all-time high for Bitcoin amidst a political landscape shaped by a red election sweep. The hosts explore the implications of the Trump administration for Bitcoin and discuss notable events like the Human Rights Foundation&#39;s bitcoin initiative in South America.  </description>
-        <enclosure url="[Listen Here](https://anchor.fm/s/91b8fbc8/podcast/play/94118990/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-7%2F389439613-44100-2-7603dd52f362a.mp3)  " type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-07-2c325d21c583a5f99a6ce80370505a60</guid>
-        <pubDate>Thu, 07 Nov 2024 21:20:00 CST</pubDate>
-    </item>
-    <item>
-        <title>Robin Seyer  : Carlos Estrada: Get to 0.1 Bitcoin before 2025!  </title>
-        <itunes:author>Robin Seyer  </itunes:author>
-        <itunes:keywords>Education, Business Adoption, Bitcoin Culture  </itunes:keywords>
-        <description>Carlos Estrada shares his passion for Bitcoin and its unique qualities, stressing the importance of smart business practices and financial education amidst inflation. The discussion points to Bitcoin&#39;s potential to reform business and economic structures, along with its cultural implications.  </description>
-        <enclosure url="[Listen Here](https://anchor.fm/s/ed1174c8/podcast/play/93937408/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-4%2F389214206-44100-2-0767c167b2e6f.mp3)  " type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-07-8a2076f1061420e8ff943e0ae78ad516</guid>
-        <pubDate>Thu, 07 Nov 2024 21:20:00 CST</pubDate>
-    </item>
-    <item>
-        <title>Simply Bitcoin  : $4.2T Bank Makes A Bitcoin Backflip! | EP 1114  </title>
-        <itunes:author>Simply Bitcoin  </itunes:author>
-        <itunes:keywords>Institutional Change, Bitcoin Investment, Market Dynamics  </itunes:keywords>
-        <description>The hosts discuss a notable shift from a major Bitcoin critic to a bullish stance, analyzing its implications for the banking sector and cryptocurrency market. They investigate the motivations behind this change and what it means for Bitcoin’s future as a viable asset class.  </description>
-        <enclosure url="[Listen Here](https://anchor.fm/s/717a2198/podcast/play/94111530/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-7%2Fc196a51e-a6b9-d707-ee51-8ce2a0835ac6.mp3)  " type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-07-5b5d46c73902e9998fb1fe260e823dcb</guid>
-        <pubDate>Thu, 07 Nov 2024 21:20:00 CST</pubDate>
-    </item>
-    <item>
-        <title>The Bitcoin Layer  : Store Your Bitcoin SECURELY: Multi-Sig &amp; Key Control  </title>
-        <itunes:author>The Bitcoin Layer  </itunes:author>
-        <itunes:keywords>Bitcoin Security, Multi-Signature Solutions, Key Management  </itunes:keywords>
-        <description>Nik and Unchained co-founders discuss the distinctive security needs of Bitcoin compared to traditional financial assets. They provide insights on multi-signature security, key management, and the logistical aspects of Bitcoin custody and inheritance planning.  </description>
-        <enclosure url="[Listen Here](https://app.mysoundwise.com/tracks/17309759434977456e.mp3)  " type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-07-5aae4652d05286b6c43c4e61c6da71b8</guid>
-        <pubDate>Thu, 07 Nov 2024 21:20:00 CST</pubDate>
-    </item>
-    <item>
-        <title>The Canadian Bitcoiners Podcast  : The CBP - Bitcoin&#39;s Destiny w/ Sly, R. Goomba  </title>
-        <itunes:author>The Canadian Bitcoiners Podcast  </itunes:author>
-        <itunes:keywords>Bitcoin Culture, Canadian Ecosystem, Community Engagement  </itunes:keywords>
-        <description>The episode features a conversation with Sly, R. Goomba about the impact of Bitcoin on Canadian culture and lifestyle. The discussion covers a range of topics, emphasizing the importance of community insights and reiterating that the information shared is not financial advice.  </description>
-        <enclosure url="[Listen Here](https://anchor.fm/s/538d43f4/podcast/play/94077921/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-7%2Fea8d41d3-a4d9-07de-fda3-0836b2c78d26.mp3)  " type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-07-aaa819ee98ab9095806fc3f07a822b65</guid>
-        <pubDate>Thu, 07 Nov 2024 21:20:00 CST</pubDate>
-    </item>
-    <item>
-        <title>The Mark Moss Show  : Can We Ever Escape This Modern-Day Tribalism? | Tom Woods  </title>
-        <itunes:author>The Mark Moss Show  </itunes:author>
-        <itunes:keywords>Social Commentary, Freedom, Historical Context  </itunes:keywords>
-        <description>Tom Woods joins the show to discuss societal division and the impact of social media on modern tribalism. They explore historical parallels and the ongoing tension between individual autonomy and collective control, framing the conversation around freedom.  </description>
-        <enclosure url="[Listen Here](https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/7abcd9bc-1b66-4c1e-a89b-ae3c000322cc/b7719f1f-28fe-46ed-891d-b2210179e11e/audio.mp3?utm_source=Podcast&amp;in_playlist=9acb2eb4-8765-4a8a-8a57-ae3c000322da)  " type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-07-86ae1553305f45063dcccb37ba2bd579</guid>
-        <pubDate>Thu, 07 Nov 2024 21:20:00 CST</pubDate>
-    </item>
-    <item>
-        <title>Token Metrics Daily Podcast  : TRUMP Will Affect YOUR BAG for Real  </title>
-        <itunes:author>Token Metrics Daily Podcast  </itunes:author>
-        <itunes:keywords>Market Response, Political Influence, Crypto Insights  </itunes:keywords>
-        <description>This episode examines the ongoing market response to Trump&#39;s win and discusses the potential landscape for cryptocurrencies in his new term. The hosts provide insights and trends relevant to cryptocurrency investors.  </description>
-        <enclosure url="[Listen Here](https://www.buzzsprout.com/2224561/episodes/16064278-trump-will-affect-your-bag-for-real.mp3)  " type="audio/mpeg" length="0" />
-        <guid isPermaLink="false">hodljuice-2024-11-07-8b1aebdca4c3be4cbc4f7be09e569d0f</guid>
-        <pubDate>Thu, 07 Nov 2024 21:20:00 CST</pubDate>
-    </item>
-  </channel>
+</channel>
 </rss>
