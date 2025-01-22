@@ -18,7 +18,115 @@
 <title>The Hodljuice Daily Pint</title>
 <link>https://hodljuice.app</link>
 </image>
-<lastBuildDate>Mon, 20 Jan 2025 18:04:27 CST</lastBuildDate>
+<lastBuildDate>Tue, 21 Jan 2025 18:04:40 CST</lastBuildDate>
+<item>
+    <title>Bitcoin Optech: Bitcoin Optech: Newsletter #337 Recap</title>
+    <itunes:author>Bitcoin Optech</itunes:author>
+    <itunes:keywords>Mining rewards, Offchain DLCs, Software releases, Code changes</itunes:keywords>
+    <description>Mark “Murch” Erhardt, Mike Schmidt, and vnprc discuss the latest developments from Newsletter #337, including ongoing discussions about rewarding miners and the introduction of Offchain DLCs. They also highlight the release of LDK v0.1 and notable changes in various Bitcoin-related projects.</description>
+    <enclosure url="https://anchor.fm/s/d9918154/podcast/play/97363296/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-21%2F7bb8949a-d7fb-7b45-240c-347138e08e00.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-01-21-c3d1dc0c61a32d7d8f7dd12e18fa7ec9</guid>
+    <pubDate>Tue, 21 Jan 2025 18:04:40 CST</pubDate>
+</item>
+<item>
+    <title>Bitcoin Veterans: Bitcoin Veterans with Joe Bryan Creator of &quot;What&#39;s the Problem?&quot;</title>
+    <itunes:author>Bitcoin Veterans</itunes:author>
+    <itunes:keywords>Bitcoin security, Self-custody, Hardware wallets, Personal responsibility</itunes:keywords>
+    <description>Joe Bryan joins Coleman, Eomar, and Bob to discuss Bitcoin security and the significance of viewing Bitcoin as a highly valuable asset. He introduces his website, satsvsfiat.com, and discusses the Coinkite Coldcard Hardware Wallet, emphasizing its design for Bitcoin maximalists and the critical importance of secure key management.</description>
+    <enclosure url="https://anchor.fm/s/e3cb8764/podcast/play/97360123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-21%2Ffdacb158-5984-af33-22a0-01f3315f322c.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-01-21-cb115bb4115e5fa8435e7fb70c5c2e2a</guid>
+    <pubDate>Tue, 21 Jan 2025 18:04:40 CST</pubDate>
+</item>
+<item>
+    <title>Bitcorner with Juan Cienfuegos: Rich &amp; Drew: About Bitcoin Self-Custody and Cold Storage with Jade Plus</title>
+    <itunes:author>Bitcorner with Juan Cienfuegos</itunes:author>
+    <itunes:keywords>Self-custody, Cold storage, Hardware wallets, Bitcoin security</itunes:keywords>
+    <description>The episode features discussions on Bitcoin self-custody and cold storage with experts Rich Graham and Drew from Blockstream. They delve into the innovations of the Jade Plus hardware wallet, emphasizing the importance of seed phrases and multisig for enhancing security.</description>
+    <enclosure url="https://api.substack.com/feed/podcast/155256044/b51587a4d4e80d044720e6f6920bce77.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-01-21-44930eee043eeac14a6af8699c71e126</guid>
+    <pubDate>Tue, 21 Jan 2025 18:04:40 CST</pubDate>
+</item>
+<item>
+    <title>Robin Seyer: Bitcoin Will CHANGE Humanity - It&#39;s More Than Just Money!</title>
+    <itunes:author>Robin Seyer</itunes:author>
+    <itunes:keywords>Cultural shifts, Self-custodianship, Community, Regulation challenges</itunes:keywords>
+    <description>Robin Seyr and Fil engage in a conversation about the significant impact of Bitcoin on society, focusing on responsibilities and the obstacles around self-custodianship. They explore the need for cultural shifts to facilitate Bitcoin adoption and the importance of education in demystifying its use.</description>
+    <enclosure url="https://anchor.fm/s/ed1174c8/podcast/play/97301340/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-20%2F393386348-44100-2-a90fc2f8b136a.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-01-21-9aa3a7bb50bb209bddca9b9fff4feed6</guid>
+    <pubDate>Tue, 21 Jan 2025 18:04:40 CST</pubDate>
+</item>
+<item>
+    <title>Simply Bitcoin: $2.5T Bank CONFIRMS $5M Bitcoin IS CLOSER Than You Think! | EP 1165</title>
+    <itunes:author>Simply Bitcoin</itunes:author>
+    <itunes:keywords>Bitcoin adoption, Banking, Regulation, Financial insight</itunes:keywords>
+    <description>The hosts discuss Bank of America&#39;s evolving stance towards Bitcoin as regulatory pressures shift. They provide insights into the bank&#39;s perspective on Bitcoin integration into traditional finance and the implications for its future in the economy.</description>
+    <enclosure url="https://anchor.fm/s/717a2198/podcast/play/97367897/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-21%2Fbcb3e73f-f45c-5fc4-16fb-eaeb9c426fce.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-01-21-ff21e085af41e4d50ad1603aa4d99de1</guid>
+    <pubDate>Tue, 21 Jan 2025 18:04:40 CST</pubDate>
+</item>
+<item>
+    <title>The Bitcoin Frontier: Could bitcoin make Michael Saylor the richest man alive? with NYU Stern adjunct professor Tad Smith</title>
+    <itunes:author>The Bitcoin Frontier</itunes:author>
+    <itunes:keywords>Investment strategy, Bitcoin valuation, Economic impact</itunes:keywords>
+    <description>Tad Smith joins to share insights on the potential of Bitcoin to reshape capital allocation and discusses his academic approach to teaching finance. He highlights the volatility of Bitcoin, its role in investment strategies, and the potential for a U.S. strategic bitcoin reserve.</description>
+    <enclosure url="https://media.transistor.fm/5afca968/b769af1d.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-01-21-cb9ca2b5c4a141ae6dc3cce1848c3e67</guid>
+    <pubDate>Tue, 21 Jan 2025 18:04:40 CST</pubDate>
+</item>
+<item>
+    <title>The Bitcoin Standard Podcast: 257. Principles of Economics: An overview</title>
+    <itunes:author>The Bitcoin Standard Podcast</itunes:author>
+    <itunes:keywords>Economics, Bitcoin relevance, Book insights</itunes:keywords>
+    <description>Saifedean reflects on his book &quot;Principles of Economics,&quot; providing an overview of economic concepts significant to contemporary discussions around Bitcoin. The launch of its Spanish translation serves as a backdrop for this insightful dialogue.</description>
+    <enclosure url="https://www.buzzsprout.com/1849151/episodes/16474481-257-principles-of-economics-an-overview.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-01-21-81dd1e3b71cb01d16ccf937ad82eac69</guid>
+    <pubDate>Tue, 21 Jan 2025 18:04:40 CST</pubDate>
+</item>
+<item>
+    <title>The Block Reward Bitcoin For Beginners: 69: Sam Roberts ON: Solving the Pension Problem with Bitcoin</title>
+    <itunes:author>The Block Reward Bitcoin For Beginners</itunes:author>
+    <itunes:keywords>Bitcoin in pensions, Financial stability, Investment strategies</itunes:keywords>
+    <description>Sam Roberts discusses the integration of Bitcoin into pension strategies, highlighting his firm&#39;s allocation of 3% of their pension funds to Bitcoin. The conversation covers the challenges faced by pensions and Bitcoin&#39;s potential role as a growth asset.</description>
+    <enclosure url="https://audio-delivery.cohostpodcasting.com/audio/99707283-ab68-4240-9fff-177a3f522270/episodes/f3e048fb-a8e8-4eaf-8136-4643c20db314/episode.mp3?v=529fcfd094" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-01-21-c3cf732fcc9b4f4e5bff7743d7230e5a</guid>
+    <pubDate>Tue, 21 Jan 2025 18:04:40 CST</pubDate>
+</item>
+<item>
+    <title>The Canadian Bitcoiners Podcast: $TRUMP and Dump, Coinbase Restarts Loan Program, Free Money for Gazans in Canada | CBP 199 Pt. 1 (Bitcoin Podcast)</title>
+    <itunes:author>The Canadian Bitcoiners Podcast</itunes:author>
+    <itunes:keywords>Economic discussions, Cryptocurrency scams, Canadian welfare</itunes:keywords>
+    <description>The hosts debate the emerging scam coins, including $TRUMP and $MELANIA, while discussing the implications of welfare distribution in Canada. The episode provides insights into Bitcoin and economics from a Canadian perspective.</description>
+    <enclosure url="https://anchor.fm/s/538d43f4/podcast/play/97334811/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-21%2F0a981055-cc17-7aac-8d76-c5aa8e302a28.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-01-21-77acacb994151cc8967cb370d72e036c</guid>
+    <pubDate>Tue, 21 Jan 2025 18:04:40 CST</pubDate>
+</item>
+<item>
+    <title>The Mining Pod: 2025 Predictions And Projections With BitsBeTrippin</title>
+    <itunes:author>The Mining Pod</itunes:author>
+    <itunes:keywords>Mining regulations, Infrastructure, Future predictions</itunes:keywords>
+    <description>Michael Carter interviews Bits Be Trippin about challenges in Bitcoin mining, such as city council regulations and economic impacts. The discussion extends to predictions for 2025, new ASIC developments, and the state of Bitcoin mining infrastructure.</description>
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/SSYDL1277499784.mp3?updated=1737429735" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-01-21-d2ca721ebd016f85fb879022fab10ba2</guid>
+    <pubDate>Tue, 21 Jan 2025 18:04:40 CST</pubDate>
+</item>
+<item>
+    <title>The What is Money Show: Trump&#39;s Sh*tcoin vs. Bitcoin: Literature, Family, and Politics with Robert Breedlove (WiM547)</title>
+    <itunes:author>The What is Money Show</itunes:author>
+    <itunes:keywords>Political implications, Bitcoin versus altcoins, Family values</itunes:keywords>
+    <description>The episode explores themes of freedom maximalism and the societal implications of Bitcoin, with special focus on Trump’s altcoin ventures. Breedlove emphasizes the importance of nurturing the next generation of Bitcoin advocates.</description>
+    <enclosure url="https://cdn.simplecast.com/audio/2effec98-bec5-4728-ba08-7a86d776e682/episodes/93d7fc59-018c-48cf-815d-42f1e6a87ca3/audio/ca08f632-2c7d-40c9-918e-86dfb39dbc16/default_tc.mp3?aid=rss_feed&feed=MLdpYXYI" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-01-21-2a500458057adba75ad73d5111e70b49</guid>
+    <pubDate>Tue, 21 Jan 2025 18:04:40 CST</pubDate>
+</item>
+<item>
+    <title>What Bitcoin Did: TRUMP, INFLATION, MSTR &amp; BITCOIN w/ Lyn Alden</title>
+    <itunes:author>What Bitcoin Did</itunes:author>
+    <itunes:keywords>Inflation, Fiscal policy, Strategic reserves</itunes:keywords>
+    <description>Lyn Alden discusses inflation, the Federal Reserve&#39;s role in fiscal policy, and the potential impact of Trump’s administration on Bitcoin. The episode extends into the concept of a Strategic Bitcoin Reserve and economic considerations for the future.</description>
+    <enclosure url="https://traffic.libsyn.com/secure/defiance/Lyn_Alden_-_Audio_Podcast.mp3?dest-id=1597487" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-01-21-76e87cf7c4cd176da45f7e0bd523e905</guid>
+    <pubDate>Tue, 21 Jan 2025 18:04:40 CST</pubDate>
+</item>
 <item>
     <title>Bitcoin Audible: Read 864 - Bitcoin Core’s Loss of Focus</title>
     <itunes:author>Bitcoin Audible</itunes:author>
