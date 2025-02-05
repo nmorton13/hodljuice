@@ -18,7 +18,178 @@
 <title>The Hodljuice Daily Pint</title>
 <link>https://hodljuice.app</link>
 </image>
-<lastBuildDate>Mon, 03 Feb 2025 18:05:15 CST</lastBuildDate>
+<lastBuildDate>Tue, 04 Feb 2025 18:06:02 CST</lastBuildDate>
+<item>
+    <title>Bit Buy Bit: Verifying the Supply | MONERO MONTHLY 02</title>
+    <itunes:author>Bit Buy Bit</itunes:author>
+    <itunes:keywords>Monero, Cryptocurrency Audits, Range-Proofs, Mining Updates</itunes:keywords>
+    <description>This episode discusses the verifiability of Monero&#39;s supply, emphasizing that anyone with a Monero node can audit the supply using range-proofs. It details recent updates in the Monero ecosystem and encourages listeners to understand how manual audits and mining work in relation to Monero. Key advancements in tools and community resources are highlighted, along with the importance of effective Monero daemon usage.</description>
+    <enclosure url="https://op3.dev/e/serve.podhome.fm/episode/df3c7f87-bdab-41fe-1438-08dbf068e250/638742385832480278838fa700-8b67-431c-922e-9bbbdad68624v1.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-02-04-d5674aa7ae4c8b4095ac9a4a9088f723</guid>
+    <pubDate>Tue, 04 Feb 2025 18:06:02 CST</pubDate>
+</item>
+<item>
+    <title>Bitcoin Takeover Podcast: &#39;S16 E6: Super Testnet on Monero vs Lightning Network Privacy&#39;</title>
+    <itunes:author>Bitcoin Takeover Podcast</itunes:author>
+    <itunes:keywords>Lightning Network, Privacy, Monero, Darknet Markets</itunes:keywords>
+    <description>In this episode, Bitcoin developer Super Testnet presents an argument that the Lightning Network offers better privacy than Monero, making it more suitable for darknet markets. The discussion includes a breakdown of financial privacy nuances and the implications for both networks.</description>
+    <enclosure url="https://bitcoin-takeover.com/audio/media/2025-02-04_s16_e6_super_testnet_on_monero_vs_lightning_network_privacy_-_04.02.2025_20.16.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-02-04-47a0480b790ef03c3eec97453e909438</guid>
+    <pubDate>Tue, 04 Feb 2025 18:06:02 CST</pubDate>
+</item>
+<item>
+    <title>Bitcoin Veterans: &#39;Bitcoin Veterans: Joe Carlasare Digital Stockpile &amp; Sovereign Wealth Fund&#39;</title>
+    <itunes:author>Bitcoin Veterans</itunes:author>
+    <itunes:keywords>Digital Stockpile, Sovereign Wealth Fund, Economic Strategies, Market Vigilance</itunes:keywords>
+    <description>Joe Carlasare discusses the executive order on creating a digital stockpile and sovereign wealth fund, as well as the implications of proposed tariffs and market behaviors. The episode emphasizes the need for vigilance and preparation amid evolving economic scenarios.</description>
+    <enclosure url="https://anchor.fm/s/e3cb8764/podcast/play/98013918/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-4%2F2d94b161-b485-4bc0-846d-02ce7078f1cc.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-02-04-07aac9b48c2c7f80e1961b7563ffc307</guid>
+    <pubDate>Tue, 04 Feb 2025 18:06:02 CST</pubDate>
+</item>
+<item>
+    <title>High Hash Rate: The Revolution Will Be Advertised with Ian Reis | HHR113</title>
+    <itunes:author>High Hash Rate</itunes:author>
+    <itunes:keywords>Bitcoin Marketing, Consumer Direct Marketing, Crypto Security</itunes:keywords>
+    <description>Ian Reis discusses his new venture, Next Block, aimed at innovating how Bitcoin is marketed directly to consumers, bypassing traditional platforms. The conversation includes important insights on security practices for Bitcoin holders and the challenges of adapting marketing strategies in the crypto space.</description>
+    <enclosure url="https://media.rss.com/high-hash-rate/2025_02_03_20_52_15_d5b0971f-e3ab-44f2-b7c2-ee2fe21c4229.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-02-04-453fb7e50aa361c025a57e3d5eea5dc1</guid>
+    <pubDate>Tue, 04 Feb 2025 18:06:02 CST</pubDate>
+</item>
+<item>
+    <title>Money Matters with Jack Mallers: &#39;LIVE: Bitcoin Dip, Tariffs, and Macroeconomics Explained with Jack Mallers&#39;</title>
+    <itunes:author>Money Matters with Jack Mallers</itunes:author>
+    <itunes:keywords>Bitcoin Market Analysis, Macroeconomics, Tariffs, Investment Strategies</itunes:keywords>
+    <description>Jack Mallers addresses the recent Bitcoin dip and examines its causes within the broader cryptocurrency and global economic context. He outlines macroeconomic principles essential for understanding market dynamics and shares insights on investment strategies.</description>
+    <enclosure url="https://anchor.fm/s/e29097f4/podcast/play/98036516/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-4%2F6f481fda-a1fa-8758-ac01-b9c1c08e6013.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-02-04-2e475a39865aa848ce32c651af567f1a</guid>
+    <pubDate>Tue, 04 Feb 2025 18:06:02 CST</pubDate>
+</item>
+<item>
+    <title>Once Bitten A Bitcoin Podcast: &#39;Pay Attention To #Bitcoin. @JosephVoelbel #523&#39;</title>
+    <itunes:author>Once Bitten A Bitcoin Podcast</itunes:author>
+    <itunes:keywords>Bitcoin Investment, Philosophy, Personal Conviction</itunes:keywords>
+    <description>Joseph Voelbel shares insights on Bitcoin&#39;s evolution and the importance of conviction before investing, highlighting his journey influenced by philosophy. He reflects on market developments and the significance of understanding Bitcoin&#39;s philosophical foundations.</description>
+    <enclosure url="https://anchor.fm/s/1346f9e8/podcast/play/98012215/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-4%2F732be08f-9864-b452-4c6a-334b72246f38.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-02-04-e50c7571a2be907f782252560ef1f9b1</guid>
+    <pubDate>Tue, 04 Feb 2025 18:06:02 CST</pubDate>
+</item>
+<item>
+    <title>Onramp Media: The Scarcity Paradigm: Wealth Preservation in an Era of Debasement</title>
+    <itunes:author>Onramp Media</itunes:author>
+    <itunes:keywords>Investment Scarcity, Bitcoin, Monetary Policy, Wealth Preservation</itunes:keywords>
+    <description>The episode discusses the role of scarce assets, particularly Bitcoin, in financial strategies aimed at wealth preservation amid inflationary pressures. The hosts share personal experiences and insights on adapting investment strategies to the current economic landscape.</description>
+    <enclosure url="https://anchor.fm/s/e01a5d48/podcast/play/98011001/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-4%2F394270642-44100-2-17be805da4455.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-02-04-62a833992c00409bf145f4e270255707</guid>
+    <pubDate>Tue, 04 Feb 2025 18:06:02 CST</pubDate>
+</item>
+<item>
+    <title>Robin Seyer: &#39;I’m ALL IN: How To Live On Bitcoin WITHOUT Ever Selling!&#39;</title>
+    <itunes:author>Robin Seyer</itunes:author>
+    <itunes:keywords>Bitcoin Lending, Privacy, Financial Independence</itunes:keywords>
+    <description>Robin Seyr interviews Science Genial about balancing privacy with public engagement in the Bitcoin community. They explore the Lend-a-Sat project and its relevance to Bitcoin lending while emphasizing the importance of self-custody and security in financial independence.</description>
+    <enclosure url="https://anchor.fm/s/ed1174c8/podcast/play/97994660/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-4%2F394251046-44100-2-6ea7b959a84bd.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-02-04-f814551dd93c7fc7ab0525a461bfbf4c</guid>
+    <pubDate>Tue, 04 Feb 2025 18:06:02 CST</pubDate>
+</item>
+<item>
+    <title>Simply Bitcoin: Did America JUST Change The Bitcoin Nation State Race Forever?! | EP 1175</title>
+    <itunes:author>Simply Bitcoin</itunes:author>
+    <itunes:keywords>Sovereign Wealth Fund, National Financial Strategies, Bitcoin Adoption</itunes:keywords>
+    <description>The episode examines the implications of the US announcing a sovereign wealth fund and its potential inclusion of Bitcoin. It discusses how this move might influence Bitcoin&#39;s integration into national financial strategies and the broader geopolitical landscape regarding cryptocurrency adoption.</description>
+    <enclosure url="https://anchor.fm/s/717a2198/podcast/play/98021945/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-4%2F2dea9885-cda8-aaa5-6ad2-29b24a117bf6.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-02-04-5bb551f5e68ab47ed5d28bfea88e00f3</guid>
+    <pubDate>Tue, 04 Feb 2025 18:06:02 CST</pubDate>
+</item>
+<item>
+    <title>The Bitcoin Frontier: Is bitcoin the singularity? with big tech engineer Radu</title>
+    <itunes:author>The Bitcoin Frontier</itunes:author>
+    <itunes:keywords>Bitcoin and Energy, Technological Innovation, Global Capital Flows</itunes:keywords>
+    <description>Radu discusses his perspective on Bitcoin as a form of digital energy and its inevitable impact on global capital flows. The conversation explores the philosophical and technological transformations that Bitcoin could bring, including its implications for society and consciousness.</description>
+    <enclosure url="https://media.transistor.fm/4197f3f9/e5492606.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-02-04-c0009447cbc11061078ca17f7a8d6172</guid>
+    <pubDate>Tue, 04 Feb 2025 18:06:02 CST</pubDate>
+</item>
+<item>
+    <title>The Bitcoin Infinity Show: &#39;The Big Print with Larry Lepard - Bitcoin Infinity Show #145&#39;</title>
+    <itunes:author>The Bitcoin Infinity Show</itunes:author>
+    <itunes:keywords>Monetary Policy, Bitcoin Solutions, Economic Challenges</itunes:keywords>
+    <description>Larry Lepard discusses his new book, &quot;The Big Print,&quot; focusing on the inevitability of monetary inflation and how Bitcoin can provide a solution. The episode encourages listeners to read the book for an in-depth understanding of the issues addressed.</description>
+    <enclosure url="https://mcdn.podbean.com/mf/web/v2g43kfugx958zi4/Larry_Leopard_-_Full_Pod791zw.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-02-04-8081d86dc3fc9262fd3c07c18d02d025</guid>
+    <pubDate>Tue, 04 Feb 2025 18:06:02 CST</pubDate>
+</item>
+<item>
+    <title>The Bitcoin Standard Podcast: 259. Cory Klippsten and Swan</title>
+    <itunes:author>The Bitcoin Standard Podcast</itunes:author>
+    <itunes:keywords>Bitcoin Market Trends, Financial Education, Institutional Adoption</itunes:keywords>
+    <description>Cory Klippsten shares insights on the evolving Bitcoin market and the concept of the &quot;Age of Scambling.&quot; He discusses the impact of market trends and institutional adoption on Bitcoin&#39;s future.</description>
+    <enclosure url="https://www.buzzsprout.com/1849151/episodes/16560119-259-cory-klippsten-and-swan.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-02-04-230f51cfc366f9da11a338db3155e13a</guid>
+    <pubDate>Tue, 04 Feb 2025 18:06:02 CST</pubDate>
+</item>
+<item>
+    <title>The Block Reward Bitcoin For Beginners: &#39;71: Adam O&#39;&#39;Brien ON: Bitcoin on Your Balance Sheet or Every Company Will Hold Bitcoin&#39;</title>
+    <itunes:author>The Block Reward Bitcoin For Beginners</itunes:author>
+    <itunes:keywords>Corporate Bitcoin Adoption, Financial Strategies, Risk Management</itunes:keywords>
+    <description>Adam O&#39;Brien explores how businesses can utilize Bitcoin as an asset on their balance sheets and the implications of incorporating Bitcoin into corporate financial strategies. The episode discusses risk management, misconceptions about Bitcoin debt, and the potential shifts in financial systems due to Bitcoin&#39;s rise.</description>
+    <enclosure url="https://audio-delivery.cohostpodcasting.com/audio/99707283-ab68-4240-9fff-177a3f522270/episodes/52404b52-8f8a-49b3-8497-cec72378a5d5/episode.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-02-04-709e076f4f798c779c5f7ecffb0ce4fb</guid>
+    <pubDate>Tue, 04 Feb 2025 18:06:02 CST</pubDate>
+</item>
+<item>
+    <title>The Breakdown: Why the Trump Tariffs Aren&#39;t Actually Economic Policy</title>
+    <itunes:author>The Breakdown</itunes:author>
+    <itunes:keywords>Economic Policies, Geostrategic Realignment, Tariffs</itunes:keywords>
+    <description>The discussion critiques the rationale behind the Trump tariffs, suggesting they are not purely economic decisions but rather aimed at geostrategic realignment. The episode reflects on the unexpected impacts these tariffs may have on various sectors.</description>
+    <enclosure url="https://traffic.megaphone.fm/BWG3504760074.mp3?updated=1738635096" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-02-04-a8c0f47a49dd07b83045db650adff242</guid>
+    <pubDate>Tue, 04 Feb 2025 18:06:02 CST</pubDate>
+</item>
+<item>
+    <title>The Canadian Bitcoiners Podcast: Tariffs Hit Canada, EU Hates Bitcoin, Czechs Love It, Clear Mempools | The CBP 201 Pt. 1 (Bitcoin Podcast)</title>
+    <itunes:author>The Canadian Bitcoiners Podcast</itunes:author>
+    <itunes:keywords>Tariffs Impact, Bitcoin Growth, Canadian Perspectives</itunes:keywords>
+    <description>The episode discusses the implications of new tariffs for Canada, the mixed sentiments surrounding Bitcoin across Europe, and the state of mempools in the Bitcoin network. The hosts engage in insightful discussions about the intersection of Bitcoin and current economic policy in Canada.</description>
+    <enclosure url="https://anchor.fm/s/538d43f4/podcast/play/97986719/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-4%2F410493bf-b7df-edea-7b21-e4e5373b139c.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-02-04-6286f3cce294ea045de5738fad04520d</guid>
+    <pubDate>Tue, 04 Feb 2025 18:06:02 CST</pubDate>
+</item>
+<item>
+    <title>The Davani Connection: &#39;TDC #248: THE FALSIFICATION OF HISTORY &amp; SCIENCE. THE TENTACLES OF THE FIAT MONETARY SYSTEM. - with JOHN HAMER&#39;</title>
+    <itunes:author>The Davani Connection</itunes:author>
+    <itunes:keywords>Central Banking, Historical Narratives, Bitcoin as a Solution</itunes:keywords>
+    <description>Keyvan Davani and John Hamer discuss the influence of central banks, the fiat monetary system, and educational indoctrination. They examine historical inaccuracies and the potential of Bitcoin as a remedy for systemic issues in society.</description>
+    <enclosure url="https://anchor.fm/s/ada8e8c/podcast/play/98001351/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-4%2F2fd34105-aefa-0f9b-6161-69bef9b903e2.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-02-04-71a14bdaaabb515382fa064d85f08c61</guid>
+    <pubDate>Tue, 04 Feb 2025 18:06:02 CST</pubDate>
+</item>
+<item>
+    <title>The Mining Pod Bitcoin Mining News: &#39;Ohio: Bitcoin Mining&#39;&#39;s Hidden Gem&#39;</title>
+    <itunes:author>The Mining Pod Bitcoin Mining News</itunes:author>
+    <itunes:keywords>Bitcoin Mining, Policy Impact, Energy Sources</itunes:keywords>
+    <description>Andrew Burchwell discusses Ohio&#39;s legislative efforts and strategic plans to foster Bitcoin mining, emphasizing the need for supportive policies and understanding of utility challenges. The episode covers Ohio&#39;s energy landscape and the implications of Bitcoin mining for local development.</description>
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/SSYDL7938089980.mp3?updated=1738617663" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-02-04-1b6c6d70d88f8ac4dad701a5b806feaa</guid>
+    <pubDate>Tue, 04 Feb 2025 18:06:02 CST</pubDate>
+</item>
+<item>
+    <title>The Mining Pod: &#39;Ohio: Bitcoin Mining&amp;#39;s Hidden Gem&#39;</title>
+    <itunes:author>The Mining Pod</itunes:author>
+    <itunes:keywords>Bitcoin Mining, Policies, Energy Strategies</itunes:keywords>
+    <description>Andrew Burchwell explores the developments in Bitcoin mining policy in Ohio, discussing legislative efforts and the issues with utility tariffs. The conversation underscores the role of energy sources like natural gas and nuclear power in shaping Ohio&#39;s mining landscape.</description>
+    <enclosure url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/SSYDL7938089980.mp3?updated=1738617663" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-02-04-8cc9caf499f8739eafec525fe0085154</guid>
+    <pubDate>Tue, 04 Feb 2025 18:06:02 CST</pubDate>
+</item>
+<item>
+    <title>The What is Money Show: Spycraft, Military Intelligence, and Military History with Matthew Reed (WiM551)</title>
+    <itunes:author>The What is Money Show</itunes:author>
+    <itunes:keywords>Military Intelligence, Disinformation, U.S. Foreign Policy</itunes:keywords>
+    <description>Matthew Reed shares insights into military intelligence tactics and discusses the complexities of U.S. foreign policy, including the Iraq War and Afghanistan withdrawal. The conversation delves into broader themes of deception in warfare and the challenge of navigating disinformation today.</description>
+    <enclosure url="https://cdn.simplecast.com/audio/2effec98-bec5-4728-ba08-7a86d776e682/episodes/c1c3b82a-d64d-49de-a087-2550ab8ac1e0/audio/f625929a-1a79-427a-a2a4-07076f653d5e/default_tc.mp3?aid=rss_feed&feed=MLdpYXYI" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-02-04-ac40ac291cda22dc6acbe3858bda06ef</guid>
+    <pubDate>Tue, 04 Feb 2025 18:06:02 CST</pubDate>
+</item>
 <item>
     <title>Access Tribes Bitcoin Podcast: AT84 - Billi Rogers, Voss Alan</title>
     <itunes:author>Access Tribes Bitcoin Podcast</itunes:author>
