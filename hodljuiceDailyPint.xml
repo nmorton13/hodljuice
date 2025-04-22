@@ -18,7 +18,97 @@
 <title>The Hodljuice Daily Pint</title>
 <link>https://hodljuice.app</link>
 </image>
-<lastBuildDate>Fri, 18 Apr 2025 19:04:31 CDT</lastBuildDate>
+<lastBuildDate>Mon, 21 Apr 2025 19:04:23 CDT</lastBuildDate>
+<item>
+    <title>Bitcoin Optech: Bitcoin Optech: Newsletter #348 Recap</title>
+    <itunes:author>Bitcoin Optech</itunes:author>
+    <itunes:keywords>Bitcoin technology, secp256k1, BIP proposals, wallet releases</itunes:keywords>
+    <description>In this episode, the hosts Mark “Murch” Erhardt and Mike Schmidt, along with guests, review Newsletter #348. They discuss various technical topics including a new educational implementation of secp256k1, the debate on whether compromised bitcoins should be destroyed, and methods for proving UTXO ownership using SHA256. They also cover draft BIP proposals such as CTV and a draft for quantum-insecure bitcoin destruction, while highlighting recent wallets and code changes in the Bitcoin ecosystem.</description>
+    <enclosure url="https://anchor.fm/s/d9918154/podcast/play/101567453/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-21%2Fcb6dcda0-3a54-ca3b-9783-a3042c84c662.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-04-21-f23d64425756b18cf38142fbfeb9bd43</guid>
+    <pubDate>Mon, 21 Apr 2025 19:04:23 CDT</pubDate>
+</item>
+<item>
+    <title>Bitcoin Takeover Podcast: S16 E21: Filip Baturan on Tanari, Citrea &amp; DeFi on Bitcoin</title>
+    <itunes:author>Bitcoin Takeover Podcast</itunes:author>
+    <itunes:keywords>DeFi, Bitcoin adoption, user experience, self-custody</itunes:keywords>
+    <description>In this episode, Filip Baturan, CEO of Tanari, discusses how their decentralized finance application aims to enhance Bitcoin&#39;s usability while ensuring self-custody. The conversation contrasts Tanari&#39;s vision with existing financial systems, emphasizing features such as ease of use and secure Bitcoin storage. Challenges of balancing user-friendliness with privacy are addressed, along with the broader implications of integrating Bitcoin into financial primitives. The episode concludes with insights into the future of Finance on Bitcoin.</description>
+    <enclosure url="https://bitcoin-takeover.com/audio/media/2025-04-22_s16_e21__filip_baturan_on_tanari_citrea_defi_on_bitcoin.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-04-21-1ea5bf0b3c6dbbd578af5fc078fb0f12</guid>
+    <pubDate>Mon, 21 Apr 2025 19:04:23 CDT</pubDate>
+</item>
+<item>
+    <title>Bitcoin for Millennials: Modern Money Is Ruining You (Most People Have No Clue) | Will Reeves | BFM145</title>
+    <itunes:author>Bitcoin for Millennials</itunes:author>
+    <itunes:keywords>Bitcoin adoption, financial behavior, rewards systems, legacy financial system</itunes:keywords>
+    <description>Will Reeves, the CEO of Fold, discusses how Bitcoin aims to empower individuals by promoting the value of saving within a flawed financial system. The episode explains how Fold is transforming from rewards to broader financial services, facilitating the transition from fiat to Bitcoin through familiar tools. Reeves highlights the psychological shift needed for Bitcoin adoption and critiques the obstacles in the legacy system that discourage saving.</description>
+    <enclosure url="https://anchor.fm/s/e82b7a08/podcast/play/101564706/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-21%2F398746649-44100-2-576d36f47905e.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-04-21-d837088a49a6f8072ac41ca848eab8a0</guid>
+    <pubDate>Mon, 21 Apr 2025 19:04:23 CDT</pubDate>
+</item>
+<item>
+    <title>Coin Stories: News Block: Market Tumbles as Foreign Investors Sell U.S. Assets, Gold Hits New ATH, Trump Demands &quot;Too Late&quot; Powell Lower Rates, Bitcoin Shows Resilience</title>
+    <itunes:author>Coin Stories</itunes:author>
+    <itunes:keywords>Macro economics, Bitcoin market trends, U.S. assets, monetary policy</itunes:keywords>
+    <description>This episode covers major financial headlines impacting Bitcoin and the global economy. Key discussions include the sell-off of U.S. assets by foreign investors, the spike in gold prices, and President Trump&#39;s pressure on the Federal Reserve regarding interest rates. The episode also reflects on Bitcoin&#39;s resilience amidst market fluctuations and regulatory changes affecting cryptocurrencies.</description>
+    <enclosure url="https://traffic.libsyn.com/secure/coinstories/370_84_NewsBlock.mp3?dest-id=2813255" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-04-21-81e5e1f58f732b6742f8e03519433dc8</guid>
+    <pubDate>Mon, 21 Apr 2025 19:04:23 CDT</pubDate>
+</item>
+<item>
+    <title>Pleb Underground: Joey (Canadian Bitcoin Podcast) Joins Pleb Underground</title>
+    <itunes:author>Pleb Underground</itunes:author>
+    <itunes:keywords>Bitcoin content creation, marketing strategies, community engagement</itunes:keywords>
+    <description>In this live episode, hosts explore the field of Bitcoin content creation with guest Joey. They discuss the marketing complexities faced by creators and debate the emphasis on genuine messaging versus click-driven strategies. The conversation delves into the ethos of Bitcoin-only content and the balance between promotion and authenticity in the community.</description>
+    <enclosure url="https://anchor.fm/s/add2abc4/podcast/play/101567559/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-21%2F398749831-44100-2-c9ed447f2973d.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-04-21-16c51a1eca1cfc22914500a86ec9ddd9</guid>
+    <pubDate>Mon, 21 Apr 2025 19:04:23 CDT</pubDate>
+</item>
+<item>
+    <title>Robin Seyer: Why You’ll Regret Not Owning Bitcoin: Earn 5X More than You Spend by 2030!</title>
+    <itunes:author>Robin Seyer</itunes:author>
+    <itunes:keywords>Bitcoin adoption, financial literacy, borrowing risks, market predictions</itunes:keywords>
+    <description>Robin Seyer and Stephan Livera discuss the evolution of Bitcoin education and its implications for adoption. They contrast retail versus institutional interest and stress the importance of self-custody for real ownership. The episode also touches on the risks associated with borrowing against Bitcoin and the evolving landscape of Bitcoin ETFs, alongside the necessary cultural shifts for mainstream acceptance.</description>
+    <enclosure url="https://anchor.fm/s/ed1174c8/podcast/play/101448022/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-18%2F398601092-44100-2-39a0800c9443.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-04-21-8c990d33c6e6936655dc7b3dc77d545a</guid>
+    <pubDate>Mon, 21 Apr 2025 19:04:23 CDT</pubDate>
+</item>
+<item>
+    <title>TFTC A Bitcoin Podcast: #609: How To Summon A UAP with Matt Pines</title>
+    <itunes:author>TFTC A Bitcoin Podcast</itunes:author>
+    <itunes:keywords>UAP phenomena, data collection, consciousness, geopolitics</itunes:keywords>
+    <description>Host Marty interviews Matt Pines to explore Skywatcher&#39;s quest for empirical data on Unidentified Aerial Phenomena (UAPs). The discussion spans various topics including U.S. government disclosure, data collection methods, and the intersection of UAP phenomena with consciousness and geopolitics. Insights include a futuristic look at AI&#39;s role and the potential implications for Bitcoin as a transformative agent in society.</description>
+    <enclosure url="https://anchor.fm/s/558f520/podcast/play/101552517/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-21%2F398734051-44100-2-719d3fe0b59d7.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-04-21-1f02822211a4230594b5dd2e360ff89c</guid>
+    <pubDate>Mon, 21 Apr 2025 19:04:23 CDT</pubDate>
+</item>
+<item>
+    <title>The Bugle Weekly: Bugle Easter Special | Bugle Weekly Episode 56</title>
+    <itunes:author>The Bugle Weekly</itunes:author>
+    <itunes:keywords>Bitcoin developments, market trends, regulatory changes</itunes:keywords>
+    <description>In this episode, hosts Rod and Dick discuss significant Bitcoin news from the past week, focusing on important developments and market trends affecting the cryptocurrency landscape. They provide insights into the implications of recent regulatory changes and include notable opinions from industry leaders, offering listeners a comprehensive overview of the current Bitcoin environment.</description>
+    <enclosure url="https://media.rss.com/bugle/2025_04_21_01_44_48_5d17f671-3e7d-4376-908d-5b0e3cd5e746.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-04-21-00c096ebc55a52ecdcb9a45f67ab2ecb</guid>
+    <pubDate>Mon, 21 Apr 2025 19:04:23 CDT</pubDate>
+</item>
+<item>
+    <title>The What is Money Show: Ideas Having Sex: How Money &amp; Language Evolve Civilization w/ Matt Ridley (WiM574)</title>
+    <itunes:author>The What is Money Show</itunes:author>
+    <itunes:keywords>Evolution of money, cultural progress, Bitcoin significance</itunes:keywords>
+    <description>Matt Ridley joins the show to discuss how concepts like money and language evolve within society. The conversation highlights the collective memory role of money and the evolutionary nature of ideas, drawing parallels between various thinkers. Ridley proposes that Bitcoin represents a pivotal shift in the evolution of money, while also reflecting on historical responses to modern challenges such as Covid.</description>
+    <enclosure url="https://cdn.simplecast.com/audio/2effec98-bec5-4728-ba08-7a86d776e682/episodes/fa7f3b35-455b-4501-a9ff-153b4d65e927/audio/e5ed7075-7a00-4bb2-a745-2fc6bc9824cc/default_tc.mp3?aid=rss_feed&feed=MLdpYXYI" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-04-21-9bd45aa0c382cf4b68825714488cbd42</guid>
+    <pubDate>Mon, 21 Apr 2025 19:04:23 CDT</pubDate>
+</item>
+<item>
+    <title>Why Bitcoin: Cryptosovereignty - BitcoinBrilliance002</title>
+    <itunes:author>Why Bitcoin</itunes:author>
+    <itunes:keywords>Bitcoin philosophy, self-custody, political implications</itunes:keywords>
+    <description>Erik Cason, a Bitcoin philosopher, discusses his book on cryptosovereignty and Bitcoin&#39;s implications beyond the realm of finance. He examines how Bitcoin’s cryptography enhances personal freedom and challenges government authority. The conversation touches on how Bitcoin redefines sovereignty and the necessity of understanding its societal impacts for a deeper comprehension of its role in the current landscape.</description>
+    <enclosure url="https://anchor.fm/s/4c24939c/podcast/play/101575742/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-21%2F398760616-44100-2-efe378c99384.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-04-21-67301eb69ca714a81ab182d40f7cb3a1</guid>
+    <pubDate>Mon, 21 Apr 2025 19:04:23 CDT</pubDate>
+</item>
 <item>
     <title>Bitcoin Audible: Read 877 - Once in a Species</title>
     <itunes:author>Bitcoin Audible</itunes:author>
