@@ -18,8 +18,124 @@
 <title>The Hodljuice Daily Pint</title>
 <link>https://hodljuice.app</link>
 </image>
-<lastBuildDate>Tue, 29 Apr 2025 19:07:39 CDT</lastBuildDate>
-
+<lastBuildDate>Wed, 30 Apr 2025 18:34:22 CDT</lastBuildDate>
+<item>
+    <title>Access Tribes Bitcoin Podcast: AT91 - Dave Bradley, the Canadian Election</title>
+    <itunes:author>Access Tribes Bitcoin Podcast</itunes:author>
+    <itunes:keywords>Canadian Politics, Bitcoin&#39;s Role, Economic Challenges, Leadership Changes</itunes:keywords>
+    <description>This episode discusses the recent Canadian federal election, highlighting the unexpected victory of the Liberal Party led by interim Prime Minister Mark Carney. The conversation with Dave Bradley delves into the economic challenges faced by Canadians, including a surge in food bank usage and prior ethics violations. The abrupt political shift and its possible implications for Canada&#39;s future are explored, particularly in the context of Bitcoin&#39;s influence.</description>
+    <enclosure url="https://api.substack.com/feed/podcast/162574329/0a9ad3790e9027d435a7839ec3219705.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-04-30-259bf6b76784c71764d0d80d19b0b36a</guid>
+    <pubDate>Wed, 30 Apr 2025 18:34:22 CDT</pubDate>
+</item>
+<item>
+    <title>Bitcoin Optech: Bitcoin Optech: Newsletter #351 Recap</title>
+    <itunes:author>Bitcoin Optech</itunes:author>
+    <itunes:keywords>Bitcoin Technologies, Wallet Development, Q&amp;A Insights, Community Engagement</itunes:keywords>
+    <description>In this episode, the hosts recap Newsletter #351, discussing significant developments in Bitcoin technology such as interactive aggregate signatures and standardized wallet backups. The discussion includes practical questions from the Bitcoin Stack Exchange and highlights ongoing improvements in Bitcoin Core and Lightning Network. The episode serves as an informative update on the latest in Bitcoin development and community inquiries.</description>
+    <enclosure url="https://anchor.fm/s/d9918154/podcast/play/101996814/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-30%2Fa896bea2-f973-f64c-2050-232fa6482c98.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-04-30-53872d82d5bcacfaa2ef79ada57c9550</guid>
+    <pubDate>Wed, 30 Apr 2025 18:34:22 CDT</pubDate>
+</item>
+<item>
+    <title>Bitcorner with Juan Cienfuegos: Cómo construir una empresa Bitcoin en El Salvador (y sobrevivir al FMI) | Hablemos de BOLTZ</title>
+    <itunes:author>Bitcorner with Juan Cienfuegos</itunes:author>
+    <itunes:keywords>Bitcoin Entrepreneurship, Non-Custodial Exchanges, El Salvador’s Economy, Economic Freedom</itunes:keywords>
+    <description>This episode features a conversation with Kilian, co-founder of Boltz Exchange, about building a non-custodial Bitcoin exchange operating in El Salvador. Kilian shares insights about overcoming capital controls from China and the significance of Boltz in the Bitcoin ecosystem, especially in light of the IMF&#39;s influence. They address taxes, legality, and the role of swaps in enhancing Bitcoin&#39;s utility and privacy.</description>
+    <enclosure url="https://api.substack.com/feed/podcast/162524876/337b44a9ed6259a996cbe1887471049c.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-04-30-ec634495ba186882c68991ae812af454</guid>
+    <pubDate>Wed, 30 Apr 2025 18:34:22 CDT</pubDate>
+</item>
+<item>
+    <title>Citadel Dispatch: CD157: NVK - COINKITE AND SELF CUSTODY</title>
+    <itunes:author>Citadel Dispatch</itunes:author>
+    <itunes:keywords>Bitcoin Hardware, Self-Custody, Security Features, Innovation</itunes:keywords>
+    <description>NVK, co-founder of Coinkite, discusses the importance of self-custody and the current landscape of Bitcoin hardware. The episode highlights features of the Coldcard wallet and explores user security measures in the context of Bitcoin ownership. NVK shares insights into market trends, community dynamics, and the future of hardware innovations catering to Bitcoin users.</description>
+    <enclosure url="https://serve.podhome.fm/episode/8029725b-0319-44b9-4793-08dc404e83a4/63881564700258945608317737-de6c-4047-882d-1b4e0d3d4dabv1.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-04-30-bf8325160652764a762f02e2e31f148d</guid>
+    <pubDate>Wed, 30 Apr 2025 18:34:22 CDT</pubDate>
+</item>
+<item>
+    <title>Robin Seyr: Stop Losing Money: 5 Reasons to Embrace Bitcoin Now!</title>
+    <itunes:author>Robin Seyr</itunes:author>
+    <itunes:keywords>Bitcoin Conferences, Cultural Significance, Financial Systems, Personal Responsibility</itunes:keywords>
+    <description>Robin Seyr speaks with Martin Kuchař about the BTC Prague conference and the importance of maintaining a Bitcoin-only approach. They discuss how historical events shape the Bitcoin culture in the Czech Republic and the role of Bitcoin in challenging traditional financial systems. The episode emphasizes the educational and networking opportunities that Bitcoin conferences provide, as well as personal accountability in the ecosystem.</description>
+    <enclosure url="https://anchor.fm/s/ed1174c8/podcast/play/101660122/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-23%2F398869743-44100-2-aa61c973cab5c.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-04-30-7ffe614e96d2b401a3fb4b5bf92f2352</guid>
+    <pubDate>Wed, 30 Apr 2025 18:34:22 CDT</pubDate>
+</item>
+<item>
+    <title>Simply Bitcoin: INSIDER LEAK: 4 BIGGEST Banks in The World Coming To Bitcoin In 2025?! | EP 1234</title>
+    <itunes:author>Simply Bitcoin</itunes:author>
+    <itunes:keywords>Banking, Bitcoin Adoption, Market Changes, Financial Predictions</itunes:keywords>
+    <description>This episode features a discussion with the Bitwise CIO about the potential entry of major banks into the Bitcoin market by 2025. The speakers explore how this shift could change the landscape of Bitcoin bull runs and the broader implications for cryptocurrency. The episode reflects on diverse perspectives within the Bitcoin community regarding these developments in traditional finance.</description>
+    <enclosure url="https://anchor.fm/s/717a2198/podcast/play/101999575/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-30%2F40903475-4ec4-29d3-de5c-56deb1a839d7.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-04-30-70b22f5f6a4bef5a76d414093464044c</guid>
+    <pubDate>Wed, 30 Apr 2025 18:34:22 CDT</pubDate>
+</item>
+<item>
+    <title>Stephan Livera Podcast: Bitcoin Oasis 2025 | SLP653</title>
+    <itunes:author>Stephan Livera Podcast</itunes:author>
+    <itunes:keywords>Bitcoin Tools, Financialization, MENA Adoption, Innovation</itunes:keywords>
+    <description>At the Bitcoin Oasis in 2025, speakers discuss new Bitcoin tools, adoption in the MENA region, and the establishment of India&#39;s first Bitcoin treasury company. Prominent figures share insights into Bitcoin cycles and the evolving nature of financialization within the ecosystem. The episode is structured around key participant contributions, providing a broad view on Bitcoin&#39;s trajectory in various markets.</description>
+    <enclosure url="https://anchor.fm/s/7d083a4/podcast/play/101991529/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-30%2F399353397-44100-2-cd4870ff8ec5.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-04-30-a76468b345acd5018599f9439bcc8d3e</guid>
+    <pubDate>Wed, 30 Apr 2025 18:34:22 CDT</pubDate>
+</item>
+<item>
+    <title>TFTC A Bitcoin Podcast: #613: Why A Strategic Bitcoin Reserve Is Imminent with Brian Morgenstern</title>
+    <itunes:author>TFTC A Bitcoin Podcast</itunes:author>
+    <itunes:keywords>Bitcoin Policy, Strategic Reserves, Legislative Priorities, Financial Products</itunes:keywords>
+    <description>In this episode, Brian Morgenstern discusses the current state of Bitcoin policy and the importance of building a strategic Bitcoin reserve. Key topics include priorities for Bitcoin legislation, the interaction between stablecoins and Bitcoin, and the necessity of legislative victories ahead of upcoming elections. The episode delves into strategies to entrench Bitcoin in financial products to prevent regulation challenges.</description>
+    <enclosure url="https://anchor.fm/s/558f520/podcast/play/101960183/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-29%2F399314736-44100-2-14e5ee8fbebb5.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-04-30-76d0eeb0f6c6dd1506bde4ece012801f</guid>
+    <pubDate>Wed, 30 Apr 2025 18:34:22 CDT</pubDate>
+</item>
+<item>
+    <title>The Breakdown: Arizona Drives Ahead with Bitcoin Reserve Bill</title>
+    <itunes:author>The Breakdown</itunes:author>
+    <itunes:keywords>Cryptocurrency Legislation, Bitcoin Adoption, Market Sentiment, Political Dynamics</itunes:keywords>
+    <description>This episode covers the recent passing of a Bitcoin Reserve Bill by both houses of the Arizona legislature, highlighting the anticipation surrounding the Governor&#39;s approval. As Bitcoin&#39;s price hovers near $95,000, the episode captures the renewed bullish sentiment within the market. The implications of this legislative move on Bitcoin&#39;s adoption are explored in detail.</description>
+    <enclosure url="https://traffic.megaphone.fm/BWG6450107149.mp3?updated=1746032575" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-04-30-13aeb0d9ea8923effde836a295853bf4</guid>
+    <pubDate>Wed, 30 Apr 2025 18:34:22 CDT</pubDate>
+</item>
+<item>
+    <title>The What is Money Show: You’re Being Scammed: Learn the Rules of the Game...or Stay Trapped w/ Andrew Macdonald (WiM578)</title>
+    <itunes:author>The What is Money Show</itunes:author>
+    <itunes:keywords>Financial Sovereignty, Legal Systems, Taxation, Personal Responsibility</itunes:keywords>
+    <description>Andrew Macdonald joins the show to discuss Natural Law, the difference between consent and coercion, and the influence of language on legal and financial systems. They delve into the impact of the Federal Reserve&#39;s establishment on personal finance and the need for individuals to reclaim their sovereignty. The episode emphasizes actionable insights into discharging financial obligations.</description>
+    <enclosure url="https://cdn.simplecast.com/audio/2effec98-bec5-4728-ba08-7a86d776e682/episodes/c6fd84ae-277b-4569-9f4d-8389551d0b6e/audio/b0f205a1-91f7-4151-bd92-7549247d576b/default_tc.mp3?aid=rss_feed&feed=MLdpYXYI" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-04-30-5c663a6d9f0187280cf4be7a6c4ed3a3</guid>
+    <pubDate>Wed, 30 Apr 2025 18:34:22 CDT</pubDate>
+</item>
+<item>
+    <title>This Week in Bitcoin: Bitcoin Core’s Identity Crisis</title>
+    <itunes:author>This Week in Bitcoin</itunes:author>
+    <itunes:keywords>Blockchain Limits, Developer Controversies, Financial Systems, Bitcoin Branding</itunes:keywords>
+    <description>This episode explores the ongoing debate within the Bitcoin community regarding its future direction—whether to remain a financial tool or to accommodate diverse data uses. The discussion includes conflicts among developers over output limits and the impact of regulatory guidance from the Federal Reserve. The episode considers how these issues affect Bitcoin&#39;s branding and public perception.</description>
+    <enclosure url="https://op3.dev/e/serve.podhome.fm/episode/f01a19c0-6f9d-4aef-9515-08dc15242149/638816367276344001c7bd0532-0370-4747-9d2f-62b5af9494b6v1.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-04-30-03c10994b147c78df67675bf862861c9</guid>
+    <pubDate>Wed, 30 Apr 2025 18:34:22 CDT</pubDate>
+</item>
+<item>
+    <title>What Bitcoin Did: LIVE IN BEDFORD w/ Checkmate, Preston Pysh, Lawrence Lepard, James Lavish, Matt Pines &amp; Alex Thorn</title>
+    <itunes:author>What Bitcoin Did</itunes:author>
+    <itunes:keywords>Economic Reordering, Financial Sovereignty, Bitcoin vs Gold, Deglobalization</itunes:keywords>
+    <description>This episode features live discussions from CheatCode in Bedford, where various speakers analyze cracks in the fiat system and the rise of stablecoins. The conversation delves into geopolitical issues, including the U.S.-China trade war and market fragility, positing Bitcoin and gold as neutral reserve assets. The importance of strategic Bitcoin reserves and financial sovereignty is highlighted in the closing discussions.</description>
+    <enclosure url="https://traffic.libsyn.com/secure/defiance/WBD906_-_Cheatcode.mp3?dest-id=1597487" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-04-30-806fc1479aa8742e80f7eced81a5e233</guid>
+    <pubDate>Wed, 30 Apr 2025 18:34:22 CDT</pubDate>
+</item>
+<item>
+    <title>Why Bitcoin: LUBKA - Legendary walking Swanfluencer</title>
+    <itunes:author>Why Bitcoin</itunes:author>
+    <itunes:keywords>Social Media Influence, Bitcoin Culture, Cryptocurrency Narratives</itunes:keywords>
+    <description>In this episode, the hosts engage with guest @DzambhalaHODL and @slygoomba to examine the influence of &quot;Swanfluencers&quot; on the Bitcoin community. They discuss how social media shapes public perception of Bitcoin and share personal anecdotes while highlighting pivotal moments in the cryptocurrency landscape. The conversation reflects on the evolving narrative surrounding Bitcoin influencers.</description>
+    <enclosure url="https://anchor.fm/s/4c24939c/podcast/play/101965851/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-30%2F4146de21-d0ed-2803-f5bf-f7dbd1f6fefc.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-04-30-437a37e70cfe9996eaaf1724ddb90f59</guid>
+    <pubDate>Wed, 30 Apr 2025 18:34:22 CDT</pubDate>
+</item>
 <item>
     <title>BTC Sessions: The TRUTH About RECESSION: Simple TRICK to Predict Markets | Peter St Onge</title>
     <itunes:author>BTC Sessions</itunes:author>
