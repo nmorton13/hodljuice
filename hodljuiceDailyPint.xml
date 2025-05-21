@@ -18,7 +18,142 @@
 <title>The Hodljuice Daily Pint</title>
 <link>https://hodljuice.app</link>
 </image>
-<lastBuildDate>Tue, 20 May 2025 18:04:27 CDT</lastBuildDate>
+<lastBuildDate>Wed, 21 May 2025 18:04:11 CDT</lastBuildDate>
+<item>
+    <title>All In Bitcoin: 008 THE FUTURE OF BITCOIN: Scaling, Privacy &amp; eCash with Alex B</title>
+    <itunes:author>All In Bitcoin</itunes:author>
+    <itunes:keywords>Bitcoin scaling, Privacy, eCash, Lightning technology</itunes:keywords>
+    <description>In this episode, CK talks with Bitcoin OG Alex B about Bitcoin&#39;s future trajectory. They review the implications of the block-size war and discuss Bitcoin-native capital markets while analyzing scaling technologies like Lightning. The conversation touches on the trade-offs of privacy and the potential impacts of eCash and the ARK protocol on Bitcoin infrastructure. Insights on the biggest risks facing Bitcoin and advice for aspiring developers are also shared.</description>
+    <enclosure url="https://mcdn.podbean.com/mf/web/2wifubtx5pi2dn2a/_008_THE_FUTURE_OF_BITCOIN_Scaling_Privacy_eCash_with_Alex_B899q2.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-05-21-2ae264509b8d7b6fa0e9cfb547a833c0</guid>
+    <pubDate>Wed, 21 May 2025 18:04:11 CDT</pubDate>
+</item>
+<item>
+    <title>Bitcoin Audible: Chat 133 - Bitcoin Development &amp; Controversy with Antoine Poinsot</title>
+    <itunes:author>Bitcoin Audible</itunes:author>
+    <itunes:keywords>OP_RETURN debate, Bitcoin development, Node policy, Community criticism</itunes:keywords>
+    <description>Antoine Poinsot, a Bitcoin Core contributor, discusses the contentious OP_RETURN debate at the heart of the Bitcoin community. He addresses misconceptions about spam filtering and node policies while defending his views against criticism. The episode reveals the complexities of Bitcoin development and the importance of reasonable discourse amidst intense disagreements. Antoine aims to clarify misunderstandings surrounding the OP_RETURN and its implications.</description>
+    <enclosure url="https://episodes.castos.com/6626b866f2af87-36468692/2043745/c1e-x0k6zc982pru4w9w3-7z3w41q6f3k1-dc6aea.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-05-21-e6338687ab230413b50e496fae6c3780</guid>
+    <pubDate>Wed, 21 May 2025 18:04:11 CDT</pubDate>
+</item>
+<item>
+    <title>Bitcoin Optech: Bitcoin Optech: Newsletter #354 Recap</title>
+    <itunes:author>Bitcoin Optech</itunes:author>
+    <itunes:keywords>Vulnerability disclosure, BIP proposals, OpCodes, Code changes</itunes:keywords>
+    <description>In this recap of Newsletter #353, Mark Erhardt and guests discuss significant topics like Bitcoin Core vulnerabilities and proposed BIPs, including those for 64-bit arithmetic and recursive covenants through quines. The episode highlights changes in Bitcoin code and discusses updates from key Lightning and Rust Bitcoin projects. The group dives into the latest releases and what they mean for the future of Bitcoin development.</description>
+    <enclosure url="https://anchor.fm/s/d9918154/podcast/play/102994108/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-21%2Fd083eb2c-5ec2-4afc-1622-29f70dac9289.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-05-21-1ccc1530b56bdf3677a580b42c45535c</guid>
+    <pubDate>Wed, 21 May 2025 18:04:11 CDT</pubDate>
+</item>
+<item>
+    <title>Bitcoin Park: Is All Load Created Equal? Where Bitcoin Meets AI and HPC</title>
+    <itunes:author>Bitcoin Park</itunes:author>
+    <itunes:keywords>Bitcoin mining, AI data centers, Grid stabilization, Market competition</itunes:keywords>
+    <description>This episode explores the relationship between Bitcoin mining and AI data centers, focusing on operational characteristics and the future of both industries. Discussions center on Bitcoin mining as a potential grid stabilization asset and the reliability demands of AI facilities. The episode covers emerging trends, competition for energy resources, and the integration challenges of Bitcoin mining with AI operations.</description>
+    <enclosure url="https://anchor.fm/s/b674708c/podcast/play/103004928/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-21%2F400745232-44100-2-ec4d5404d365d.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-05-21-63a24c8305f5c7ea3e5bfa723f2f588f</guid>
+    <pubDate>Wed, 21 May 2025 18:04:11 CDT</pubDate>
+</item>
+<item>
+    <title>Bitcoin Takeover Podcast: S16 E26: Mark Edge on Freeing Ian Freeman &amp; Free Talk Radio</title>
+    <itunes:author>Bitcoin Takeover Podcast</itunes:author>
+    <itunes:keywords>Libertarianism, Prison reform, Support for Bitcoin advocates</itunes:keywords>
+    <description>Mark Edge, co-host of Free Talk Radio, discusses the unjust imprisonment of his colleague Ian Freeman and the importance of public support for his release. Known for his role in introducing many to Bitcoin through the radio show, Edge highlights the need for action within the libertarian community to advocate for Freeman’s freedom.</description>
+    <enclosure url="https://bitcoin-takeover.com/audio/media/2025-05-22_s16_e26_mark_edge_on_ian_freeman_free_talk_radio_-_21.05.2025_14.22.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-05-21-14ab50254219602144838ae335bc52ef</guid>
+    <pubDate>Wed, 21 May 2025 18:04:11 CDT</pubDate>
+</item>
+<item>
+    <title>Bitcorner with Juan Cienfuegos: Would Mao Hold Bitcoin? What Censorship Can’t Kill – Roger Huang</title>
+    <itunes:author>Bitcorner with Juan Cienfuegos</itunes:author>
+    <itunes:keywords>Authoritarianism, Censorship, Bitcoin&#39;s role, Geopolitical implications</itunes:keywords>
+    <description>Roger Huang discusses the intersection of Bitcoin and authoritarian regimes, looking at how Bitcoin can challenge oppressive systems. The episode touches on surveillance by the Chinese Communist Party and the use of stablecoins like Tether. Huang&#39;s insights into events like the Hong Kong protests highlight Bitcoin&#39;s potential as a tool for freedom amidst pervasive control.</description>
+    <enclosure url="https://api.substack.com/feed/podcast/163984833/ae5ca765c48604582470853cf06293be.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-05-21-05b4e2832e777091da85cb1b0382187e</guid>
+    <pubDate>Wed, 21 May 2025 18:04:11 CDT</pubDate>
+</item>
+<item>
+    <title>Onramp Media: Bitcoin Is the New Hurdle Rate: Corporate Treasuries Are Waking Up</title>
+    <itunes:author>Onramp Media</itunes:author>
+    <itunes:keywords>Bitcoin adoption, Corporate finance, Asset management, Shareholder activism</itunes:keywords>
+    <description>Hosted by Jackson Mikalic, this episode examines the rising significance of Bitcoin in corporate finance strategies with insights from Ethan Peck of Strive Asset Management. Discussions revolve around the shift from ESG to Bitcoin advocacy and the challenges corporations face in adopting Bitcoin. The conversation emphasizes Bitcoin&#39;s growing necessity for survival in a changing financial landscape and involvement in corporate governance.</description>
+    <enclosure url="https://anchor.fm/s/e01a5d48/podcast/play/102968447/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-21%2F400697446-44100-2-84000e71a1513.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-05-21-026b6e53dd6d272e1c3807b8e3debbf1</guid>
+    <pubDate>Wed, 21 May 2025 18:04:11 CDT</pubDate>
+</item>
+<item>
+    <title>Pleb Underground: Pleb Underground Monthly Live Episode #8</title>
+    <itunes:author>Pleb Underground</itunes:author>
+    <itunes:keywords>Bitcoin acceptance, Current events, Bitcoin community, Legislative updates</itunes:keywords>
+    <description>The Pleb Underground gang discusses recent developments in Bitcoin, including businesses accepting Bitcoin payments and various community perspectives on Bitcoin&#39;s future. The episode covers topics like OP_RETURN drama, community challenges, and Missouri&#39;s groundbreaking legislation on capital gains tax relief for Bitcoin. The lively conversation reflects ongoing changes in the Bitcoin ecosystem.</description>
+    <enclosure url="https://anchor.fm/s/add2abc4/podcast/play/102986802/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-21%2F400721353-44100-2-48bf4986c5a61.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-05-21-a883248d74350bc650f79874f569e13c</guid>
+    <pubDate>Wed, 21 May 2025 18:04:11 CDT</pubDate>
+</item>
+<item>
+    <title>Robin Seyer: Bitcoin Will Hit $1 Million &amp; Become Global Money! (It’s Inevitable)</title>
+    <itunes:author>Robin Seyer</itunes:author>
+    <itunes:keywords>Bitcoin standard, Global finance, Government roles, Economic implications</itunes:keywords>
+    <description>In this episode, Robin Seyr and Nicholas Bridgewater explore the concept of a Bitcoin standard and its potential to reshape global finance. They discuss the attributes of Bitcoin as sound money compared to fiat and the implications of government adoption. The conversation highlights strategic competition among nations to accumulate Bitcoin and the challenges of transitioning to this new monetary standard.</description>
+    <enclosure url="https://anchor.fm/s/ed1174c8/podcast/play/102974889/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-21%2F400705654-44100-2-b5bd82ce38c26.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-05-21-ad02978cb8629625a69311dfc67e1079</guid>
+    <pubDate>Wed, 21 May 2025 18:04:11 CDT</pubDate>
+</item>
+<item>
+    <title>Simply Bitcoin: Bitcoin is EXPLODING Through NEW All Time Highs! | EP 1249</title>
+    <itunes:author>Simply Bitcoin</itunes:author>
+    <itunes:keywords>Bitcoin price, Market trends, Community engagement, Current events</itunes:keywords>
+    <description>This episode celebrates Bitcoin nearing its highest daily closing price ever, indicating a bullish market trend. The hosts discuss significant metrics and what the new price levels mean for the Bitcoin community. Excitement builds as they engage listeners to participate actively during this pivotal time for Bitcoin.</description>
+    <enclosure url="https://anchor.fm/s/717a2198/podcast/play/103004261/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-21%2Ffbbfe956-9557-e260-3986-793e0cf51323.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-05-21-ea4c861eaad6c18cd8f2d20abe8e9623</guid>
+    <pubDate>Wed, 21 May 2025 18:04:11 CDT</pubDate>
+</item>
+<item>
+    <title>Supply Shock: How Bitcoin Became Trump’s Weapon | Ryan Selkis</title>
+    <itunes:author>Supply Shock</itunes:author>
+    <itunes:keywords>Political dynamics, Crypto controversies, Bitcoin vs. Crypto</itunes:keywords>
+    <description>Ryan Selkis shares insights from his experiences in the crypto space, including whistleblowing at Mt. Gox and navigating the intertwining of politics and cryptocurrency. The episode covers the FTX collapse, market dynamics, and the role of Bitcoin in political discussions. Selkis’ reflections on significant events provide a unique perspective on the ongoing culture wars in the industry.</description>
+    <enclosure url="https://chrt.fm/track/713ACD/traffic.megaphone.fm/BWG1907334963.mp3?updated=1747850133" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-05-21-36956d5289db9c974fa991090520a55b</guid>
+    <pubDate>Wed, 21 May 2025 18:04:11 CDT</pubDate>
+</item>
+<item>
+    <title>The Breakdown: Senate Clears Stablecoin Bill Hurdle</title>
+    <itunes:author>The Breakdown</itunes:author>
+    <itunes:keywords>Stablecoin regulation, Crypto legislation, Political dynamics</itunes:keywords>
+    <description>The U.S. Senate has voted to advance the Genius Act, a critical step towards regulating stablecoins in crypto. This episode analyzes the political landscape that enabled the bill, including shifting Democratic support and opposition from figures like Elizabeth Warren. The hosts discuss the implications for USDC and the future of crypto regulation as the bill moves toward a final vote.</description>
+    <enclosure url="https://traffic.megaphone.fm/BWG3993316573.mp3?updated=1747800013" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-05-21-9c468e180633fa31656ede225bff43ad</guid>
+    <pubDate>Wed, 21 May 2025 18:04:11 CDT</pubDate>
+</item>
+<item>
+    <title>The Canadian Bitcoiners Podcast: MAID for Kids, Fake Asylum Claims, Canadian Cabinet | CBP 215 Pt 2</title>
+    <itunes:author>The Canadian Bitcoiners Podcast</itunes:author>
+    <itunes:keywords>Canadian real estate, Bitcoin security, Economic challenges</itunes:keywords>
+    <description>This episode addresses the precarious state of the Canadian real estate market, featuring discussions on mortgage issues and declining property values. The hosts examine insights from prominent figures like Jack Mallers, who emphasizes the security of Bitcoin compared to traditional systems. The conversation touches upon the economic challenges facing Canadians in light of ongoing market changes.</description>
+    <enclosure url="https://anchor.fm/s/538d43f4/podcast/play/102906213/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-20%2F400613848-44100-2-5e319a36672b6.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-05-21-0e489a9e21e5accd401770df5306de2e</guid>
+    <pubDate>Wed, 21 May 2025 18:04:11 CDT</pubDate>
+</item>
+<item>
+    <title>The Peter McCormack Show: #076 - Freddie New - From Caesar to Starmer: The Death of a Nation</title>
+    <itunes:author>The Peter McCormack Show</itunes:author>
+    <itunes:keywords>Political decline, National identity, Historical analysis</itunes:keywords>
+    <description>Freddie New explores the decline of the UK as a nation, drawing parallels to historical figures such as Julius Caesar and current leaders like Keir Starmer. He analyzes the socio-political landscape and discusses the erosion of unifying ideals in Britain. The episode reflects on the challenges of national identity and governance in contemporary society.</description>
+    <enclosure url="https://traffic.libsyn.com/secure/whatbitcoindid/TPMS_-_Freddie_New_Podcast_Audio.mp3?dest-id=607905" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-05-21-acc8c7d3ff2761a98817b6d5a9e717da</guid>
+    <pubDate>Wed, 21 May 2025 18:04:11 CDT</pubDate>
+</item>
+<item>
+    <title>What Bitcoin Did: Is the Fed Losing Control? W/ Matthew Mezinski</title>
+    <itunes:author>What Bitcoin Did</itunes:author>
+    <itunes:keywords>Central banking, Financial sovereignty, Fractional reserve banking</itunes:keywords>
+    <description>Matthew Mezinskis discusses the systemic risks of fractional reserve banking and its increasing controversy among Bitcoin enthusiasts. The episode explores the challenges posed by central banking and highlights Bitcoin&#39;s potential as a solution for financial sovereignty. It provides insights into the metrics of the global financial system and the implications of growing instability in the dollar regime.</description>
+    <enclosure url="https://traffic.libsyn.com/secure/defiance/WBD913_-_Matthew_Mezinskis.mp3?dest-id=1597487" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-05-21-cb188055dc55de94eaa35e0d2250a624</guid>
+    <pubDate>Wed, 21 May 2025 18:04:11 CDT</pubDate>
+</item>
 <item>
     <title>BTC Sessions: Why Hong Kong Needs Bitcoin: EXILED For Freedom | Nathan Law</title>
     <itunes:author>BTC Sessions</itunes:author>
