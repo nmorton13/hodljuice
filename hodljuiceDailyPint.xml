@@ -18,7 +18,160 @@
 <title>The Hodljuice Daily Pint</title>
 <link>https://hodljuice.app</link>
 </image>
-<lastBuildDate>Tue, 14 Oct 2025 17:23:05 CDT</lastBuildDate>
+<lastBuildDate>Wed, 15 Oct 2025 17:22:54 CDT</lastBuildDate>
+<item>
+    <title>21 in 21: 21 in 21: Erik Cativo</title>
+    <itunes:author>21 in 21</itunes:author>
+    <itunes:keywords>Bitcoin design, UX in cryptocurrency, Cash App features, Feedback in product design</itunes:keywords>
+    <description>Erik Cativo discusses the future of money with a focus on Bitcoin design during the Bitcoin Design Week. He shares his experiences with ecash and innovative payment interactions such as bump-to-pay. Cativo emphasizes thoughtful user experience to make Bitcoin engaging, private, and user-friendly. He also offers insights on feedback mechanisms for improving Bitcoin products and lessons learned from cashless societies.</description>
+    <enclosure url="https://feeds.fountain.fm/225QxxaXdKbEEjEXSha3/items/GCOxJ3Gh5uxCdgGIErJi/files/AUDIO---DEFAULT---691491f4-834f-4ed1-80ed-16587945d804.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-10-15-7719111c1a01d6ce20ea29a8858d6276</guid>
+    <pubDate>Wed, 15 Oct 2025 17:22:54 CDT</pubDate>
+</item>
+<item>
+    <title>Access Tribes Bitcoin Podcast: AT98 - Bam Alasi, Knots vs Core</title>
+    <itunes:author>Access Tribes Bitcoin Podcast</itunes:author>
+    <itunes:keywords>Bitcoin community, Political debate, Open-source applications, Educational platforms</itunes:keywords>
+    <description>In this episode, Bam Alasi, a Syrian Bitcoiner, discusses the recent political debates within the Bitcoin community regarding changes by Bitcoin Core. He shares his experience in creating Bitcoin educational platforms like Bitcoin 21 and app development with Cypher Box. The conversation also touches on grassroots efforts and significant Bitcoin policy proposals that have garnered media attention. Listeners can find additional resources through the Cypher Box Substack and Access Tribe platform.</description>
+    <enclosure url="https://api.substack.com/feed/podcast/175979587/46139c7b6b90e26652b9c65e078c7c22.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-10-15-4425b5dc54c90adbc96557b592166609</guid>
+    <pubDate>Wed, 15 Oct 2025 17:22:54 CDT</pubDate>
+</item>
+<item>
+    <title>All In Bitcoin: 018 Bitcoin HORROR Stories With BTCsessions: Mistakes That Cost Everything - All In Bitcoin With CK</title>
+    <itunes:author>All In Bitcoin</itunes:author>
+    <itunes:keywords>Bitcoin security, Operational security (OPSEC), Privacy, Lessons learned</itunes:keywords>
+    <description>In the second part of his conversation with BTCsessions, Ben Perrin shares real-life Bitcoin horror stories highlighting critical mistakes in OPSEC, privacy, and security. The episode provides essential insights into common pitfalls and the importance of being proactive with self-custody. Listeners will learn about multisig setups, privacy issues in Lightning and CoinJoin, and safety tips for Bitcoin users at conferences. It serves as a cautionary tale for anyone thinking of delaying important security measures.</description>
+    <enclosure url="https://feeds.fountain.fm/JDeLIhyvDRXTkYpCrnr4/items/LuCyzm9GWxGqYZF9YwHe/files/AUDIO---DEFAULT---86e533e4-8b1d-44e9-86be-7d37fb6dcb71.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-10-15-52bd2f34d90730246c23fd5a7cde9af1</guid>
+    <pubDate>Wed, 15 Oct 2025 17:22:54 CDT</pubDate>
+</item>
+<item>
+    <title>Bitcoin Audible: Chat 147 - Insuring the Uninsurable with Rob Hamilton</title>
+    <itunes:author>Bitcoin Audible</itunes:author>
+    <itunes:keywords>Bitcoin custody, Financial infrastructure, Multisig innovation, Insurance</itunes:keywords>
+    <description>Rob Hamilton from AnchorWatch discusses the evolving landscape of Bitcoin custody and insurance infrastructure. The episode delves into how innovations like Miniscript and MuSig create new opportunities for shared ownership and risk management. Topics include the merging of Bitcoin with traditional insurance markets and future possibilities of insuring Bitcoin without fiat. The discussion also examines the implications for Lightning and AI authentication in the custody landscape.</description>
+    <enclosure url="https://episodes.castos.com/6626b866f2af87-36468692/2165304/c1e-1v2wnc586j7uxv92z-qdvwv0n5s4r7-boeqj4.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-10-15-0f8e77325636203df54abe0c50d304e4</guid>
+    <pubDate>Wed, 15 Oct 2025 17:22:54 CDT</pubDate>
+</item>
+<item>
+    <title>Bitcoin Today Recast: Bitcoin Today Recast 10/15/25</title>
+    <itunes:author>Bitcoin Today Recast</itunes:author>
+    <itunes:keywords>Bitcoin news, Market trends, Regulatory updates, Advice for beginners</itunes:keywords>
+    <description>Hosted by Terence, Bitcoin Today Recast offers the latest news and insights on the Bitcoin market, discussing recent price movements and regulatory updates. The episode aims to inform both enthusiasts and newcomers about the current landscape of Bitcoin. Key tips for navigating the Bitcoin environment are shared, making it a concise resource for listeners seeking to stay updated.</description>
+    <enclosure url="https://anchor.fm/s/1030dc984/podcast/play/109725345/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-15%2Fb5453258-e07f-99a9-265a-42b26cce1d2d.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-10-15-269e0087c34c0d3c5bfa489f48dba908</guid>
+    <pubDate>Wed, 15 Oct 2025 17:22:54 CDT</pubDate>
+</item>
+<item>
+    <title>POD256 Mining News: 090. Make Every Meetup a Pool: Stratum v2, Hole Punching, and Open Mining</title>
+    <itunes:author>POD256 Mining News</itunes:author>
+    <itunes:keywords>Open-source mining, Community-driven initiatives, Mining efficiency, Stratum protocol</itunes:keywords>
+    <description>This episode explores advancements in open-source Bitcoin mining, featuring updates from TabConf. The hosts discuss innovations such as Mujina, a new modular mining firmware, and the importance of community-driven designs. The conversation includes Stratum v2 protocols, NAT traversal techniques, and progress in decentralized mining pools. Emphasis is placed on practical features for enhancing mining efficiency within the community.</description>
+    <enclosure url="https://serve.podhome.fm/episode/45f744d1-5b5f-4847-ed5e-08dde03e6614/6389615885561520674a288529-e8ef-43b1-a339-15f15c37d58c.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-10-15-a7c116ea2fe0782608ac04cb8084c0db</guid>
+    <pubDate>Wed, 15 Oct 2025 17:22:54 CDT</pubDate>
+</item>
+<item>
+    <title>Relai Bitcoin Podcast: Bitcoin Treasury Companies Are Here to Stay, with Alexandre Laizet | Relai Bitcoin Podcast #104</title>
+    <itunes:author>Relai Bitcoin Podcast</itunes:author>
+    <itunes:keywords>Bitcoin treasury companies, Fundraising strategies, Market dynamics, Investment risks</itunes:keywords>
+    <description>Alexandre Laizet shares his insights on Bitcoin treasury companies and their role in the evolving finance landscape. Joined by Relai CEO Julian Liniger, they discuss the mechanics, opportunities, and challenges these companies face within private markets. Laizet provides a thorough analysis of Bitcoin’s value proposition and competitive dynamics among treasury firms, offering valuable knowledge for cryptocurrency investors.</description>
+    <enclosure url="https://anchor.fm/s/42c63e90/podcast/play/109663848/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-14%2F409251648-44100-2-57b0aaffbcdbc.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-10-15-994dad89536d50bdf6ea1e19615ae86a</guid>
+    <pubDate>Wed, 15 Oct 2025 17:22:54 CDT</pubDate>
+</item>
+<item>
+    <title>Robin Seyr: Sellers Are About To Demand Bitcoin Everywhere The $1M Domino Effect</title>
+    <itunes:author>Robin Seyr</itunes:author>
+    <itunes:keywords>Bitcoin adoption, Banking and regulation, Digital currency infrastructure, Venture capital</itunes:keywords>
+    <description>Eric Yakes and Robin Seyr explore the potential for Bitcoin to become a central bank reserve asset amid changing regulatory landscapes. They discuss the critical role of stablecoins in facilitating Bitcoin adoption and the infrastructure required to support it. Key themes also include the need for personal growth in the Bitcoin community and the forthcoming changes in Bitcoin&#39;s usage as a medium of exchange.</description>
+    <enclosure url="https://anchor.fm/s/ed1174c8/podcast/play/109703792/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-15%2F409303336-44100-2-c8e9ed0e219d4.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-10-15-b40ff883814659d8a937c7d32cfae9d6</guid>
+    <pubDate>Wed, 15 Oct 2025 17:22:54 CDT</pubDate>
+</item>
+<item>
+    <title>Simply Bitcoin: Larry Fink CONFIRMS The Worlds BIGGEST Banks Want YOUR Bitcoin?! | EP 1354</title>
+    <itunes:author>Simply Bitcoin</itunes:author>
+    <itunes:keywords>Bitcoin ETF, Institutional investment, Control over investments, Risks of manipulation</itunes:keywords>
+    <description>Larry Fink discusses the growing interest of major banks in Bitcoin, particularly highlighting the success of BlackRock&#39;s Bitcoin ETF. The episode serves as a cautionary tale, urging listeners to maintain control over their Bitcoin holdings amidst institutional involvement. The hosts warn against potential manipulation from large financial entities and emphasize self-custody.</description>
+    <enclosure url="https://anchor.fm/s/717a2198/podcast/play/109725617/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-15%2F409331649-44100-2-e05d8b7b2dce.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-10-15-47e7a819a39a7e2727907f1f6b0b4a64</guid>
+    <pubDate>Wed, 15 Oct 2025 17:22:54 CDT</pubDate>
+</item>
+<item>
+    <title>Simply Bitcoin: Are Big Banks Shorting Bitcoin? | The Master Plan to Suppress BTC EXPOSED | Bitcoin Simply</title>
+    <itunes:author>Simply Bitcoin</itunes:author>
+    <itunes:keywords>Bitcoin manipulation, Dual strategies of banks, Institutional actions, Economic implications</itunes:keywords>
+    <description>This episode investigates the contradictory stance of major banks publicly supporting Bitcoin while simultaneously shorting it. The hosts reveal tactics used by institutions to manipulate Bitcoin prices and the significance of understanding this duality. They discuss insider trading timelines, Bitcoin&#39;s unique qualities, and the relevance of this knowledge for investors navigating the market.</description>
+    <enclosure url="https://anchor.fm/s/717a2198/podcast/play/109694755/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-15%2F409291520-44100-2-bd531ec604b4c.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-10-15-d3c021f45e598bb572f53dbba5db6914</guid>
+    <pubDate>Wed, 15 Oct 2025 17:22:54 CDT</pubDate>
+</item>
+<item>
+    <title>TFTC A Bitcoin Podcast: #671: What&#39;s Really in Bitcoin Core Version 30 with Instagibbs</title>
+    <itunes:author>TFTC A Bitcoin Podcast</itunes:author>
+    <itunes:keywords>Bitcoin Core updates, Technical improvements, Privacy issues, Regulation impacts</itunes:keywords>
+    <description>Marty and Instagibbs delve into the recent Bitcoin Core version 30 release, discussing technical enhancements like checkpoint removal and orphanage updates. They explore the controversial OP_RETURN function and address privacy challenges associated with the Lightning network. The episode also considers future development plans amid evolving regulatory challenges in the Bitcoin ecosystem.</description>
+    <enclosure url="https://feeds.fountain.fm/ZwwaDULvAj0yZvJ5kdB9/items/1oPSaBzbTIwzrVf9iQz7/files/AUDIO---DEFAULT---88f46d1e-4b93-4b54-aa61-23ff78ee9e10.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-10-15-0c1e974e6f6db022cd09d99579943282</guid>
+    <pubDate>Wed, 15 Oct 2025 17:22:54 CDT</pubDate>
+</item>
+<item>
+    <title>The Bitcoin Treasuries Podcast with Tim Kotzman: The Bitcoin Journey with Adam Back</title>
+    <itunes:author>The Bitcoin Treasuries Podcast with Tim Kotzman</itunes:author>
+    <itunes:keywords>Bitcoin Treasury companies, Market cycles, Code changes, Development challenges</itunes:keywords>
+    <description>Adam Back, CEO of Blockstream, joins Tim Kotzman to reflect on the current Bitcoin market cycle and the trajectory of Bitcoin Treasury firms. The discussion covers Back&#39;s early exposure to Bitcoin, the necessity for these companies to adapt to code changes, and the importance of technical innovations like the taproot upgrade. The episode offers insights into the challenges and responsibilities facing treasury companies in the evolving market.</description>
+    <enclosure url="https://anchor.fm/s/fd394588/podcast/play/109713943/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-15%2F409317325-44100-2-ea5223f8a9adb.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-10-15-acf8d578d346998124d4067d54188498</guid>
+    <pubDate>Wed, 15 Oct 2025 17:22:54 CDT</pubDate>
+</item>
+<item>
+    <title>The Bitcoin Way Podcast: GET OUT Before It’s Too Late! | Bitcoin Banter</title>
+    <itunes:author>The Bitcoin Way Podcast</itunes:author>
+    <itunes:keywords>Authoritarian regimes, Self-custody, Financial control, Personal dignity</itunes:keywords>
+    <description>In this special edition of Bitcoin Banter, hosts Michael and Tony are joined by Adam Hudson to discuss the rise of authoritarian governance characterized by heavy taxation and speech censorship. The conversation emphasizes the importance of taking control of Bitcoin assets through self-custody and creating alternative plans to safeguard individual dignity amid these societal shifts.</description>
+    <enclosure url="https://www.buzzsprout.com/2334006/episodes/18016831-get-out-before-it-s-too-late-bitcoin-banter.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-10-15-c3d6f7b5db424c8431cc59b1db9c8ff8</guid>
+    <pubDate>Wed, 15 Oct 2025 17:22:54 CDT</pubDate>
+</item>
+<item>
+    <title>The Canadian Bitcoiners Podcast: Carney&#39;s Travels, Canada Donates to Ukraine, Canadian Bail Stories | The CBP 236 Pt 2</title>
+    <itunes:author>The Canadian Bitcoiners Podcast</itunes:author>
+    <itunes:keywords>Cryptocurrency market fluctuations, Canadian perspective on Bitcoin, Economic discussions, Current events</itunes:keywords>
+    <description>In the context of Bitcoin facing its largest drawdown in history, the hosts provide analysis from a Canadian perspective on Bitcoin&#39;s resilience amidst altcoin crashes. They engage in discussions about Bitcoin&#39;s influence in Canada, economic implications, and current events, all while reminding listeners that the information is not financial advice.</description>
+    <enclosure url="https://anchor.fm/s/538d43f4/podcast/play/109686559/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-14%2F409281861-44100-2-42bc090b6508b.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-10-15-20fd48cef16354636902392d6d8e4c5b</guid>
+    <pubDate>Wed, 15 Oct 2025 17:22:54 CDT</pubDate>
+</item>
+<item>
+    <title>The Canadian Bitcoiners Podcast: The LARGEST Wipeout in Crypto History and Bitcoin is Unphased | The CBP 236 Pt 1</title>
+    <itunes:author>The Canadian Bitcoiners Podcast</itunes:author>
+    <itunes:keywords>Crypto market analysis, Resilience of Bitcoin, Economic insights, Non-financial advice</itunes:keywords>
+    <description>Addressing the recent extraordinary market volatility that led to significant losses in altcoins, the hosts underscore Bitcoin&#39;s stable position. They provide in-depth commentary on Bitcoin&#39;s role in the Canadian economy and its continued relevance, alongside their disclaimers regarding financial advice. This episode aims to engage listeners with the evolving Bitcoin landscape.</description>
+    <enclosure url="https://anchor.fm/s/538d43f4/podcast/play/109686273/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-14%2F409281742-44100-2-f6e91fed991e9.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-10-15-3d8f05ba008f8fef6dca0f9859ac3b59</guid>
+    <pubDate>Wed, 15 Oct 2025 17:22:54 CDT</pubDate>
+</item>
+<item>
+    <title>This Week in Bitcoin: 77: Owning Bitcoin Isn’t Optional</title>
+    <itunes:author>This Week in Bitcoin</itunes:author>
+    <itunes:keywords>Altcoin turmoil, Fiat system vulnerabilities, Bitcoin adoption, Investment risks</itunes:keywords>
+    <description>In this episode, the hosts discuss the turmoil within the altcoin market and the risks posed by an unstable fiat system, highlighting the necessity of owning Bitcoin. They share insights into economic policies and the implications of losing trust in fiat currency. The episode emphasizes the importance of Bitcoin as a hedge against economic uncertainty and outlines future trends in ownership and investment.</description>
+    <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/wL3wRHFi0LxAZBPBGgr5/files/AUDIO---DEFAULT---88e1f0e9-f136-42fc-b4ea-bf1f46e65c70.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-10-15-7ed72fa6f64c76e2c77e2f30e39312fd</guid>
+    <pubDate>Wed, 15 Oct 2025 17:22:54 CDT</pubDate>
+</item>
+<item>
+    <title>What Bitcoin Did: Has the Debt Spiral Started? | Luke Gromen</title>
+    <itunes:author>What Bitcoin Did</itunes:author>
+    <itunes:keywords>U.S. debt cycle, Fiat system, Stablecoins, Inflation risks</itunes:keywords>
+    <description>Luke Gromen presents an analysis of the U.S. debt cycle, warning of its impending crisis amid rising geopolitical tensions and AI disruptions. He theorizes about the end of the fiat currency era and posits that stablecoins could play a pivotal role in a new economic structure. The discussion touches on themes of financial repression and the unique positions of gold and Bitcoin as safe havens in turbulent times.</description>
+    <enclosure url="https://feeds.fountain.fm/UZSKQcrOnhqYS1JopxGg/items/6BR9ofZPxm359LS7FUOd/files/AUDIO---DEFAULT---c8249b28-a12d-44c2-8bb9-31bac3d95927.mp3" type="audio/mpeg" length="0" />
+    <guid isPermaLink="false">hodljuice-2025-10-15-da691be482d40f0426ea60740137fe81</guid>
+    <pubDate>Wed, 15 Oct 2025 17:22:54 CDT</pubDate>
+</item>
 <item>
     <title>BTC Sessions: Tom Luongo Reveals: Trump&#39;s Genius Trap Crushes Globalists - Bitcoin Boom Ahead</title>
     <itunes:author>BTC Sessions</itunes:author>
